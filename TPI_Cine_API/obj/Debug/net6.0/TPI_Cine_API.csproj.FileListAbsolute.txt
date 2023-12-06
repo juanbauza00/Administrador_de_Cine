@@ -1,0 +1,892 @@
+C:\Users\David\Desktop\Repo-FrontAndBack-Cine-David\TPI_Cine_API\obj\Debug\net6.0\TPI_Cine_API.csproj.AssemblyReference.cache
+C:\Users\David\Desktop\Repo-FrontAndBack-Cine-David\TPI_Cine_API\obj\Debug\net6.0\TPI_Cine_API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\David\Desktop\Repo-FrontAndBack-Cine-David\TPI_Cine_API\obj\Debug\net6.0\TPI_Cine_API.AssemblyInfoInputs.cache
+C:\Users\David\Desktop\Repo-FrontAndBack-Cine-David\TPI_Cine_API\obj\Debug\net6.0\TPI_Cine_API.AssemblyInfo.cs
+C:\Users\David\Desktop\Repo-FrontAndBack-Cine-David\TPI_Cine_API\obj\Debug\net6.0\TPI_Cine_API.csproj.CoreCompileInputs.cache
+C:\Users\David\Desktop\Repo-FrontAndBack-Cine-David\TPI_Cine_API\obj\Debug\net6.0\TPI_Cine_API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\David\Desktop\Repo-FrontAndBack-Cine-David\TPI_Cine_API\obj\Debug\net6.0\TPI_Cine_API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\David\Desktop\Repo-FrontAndBack-Cine-David-\TPI_Cine_API\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\David\Desktop\Repo-FrontAndBack-Cine-David-\TPI_Cine_API\bin\Debug\net6.0\appsettings.json
+C:\Users\David\Desktop\Repo-FrontAndBack-Cine-David-\TPI_Cine_API\bin\Debug\net6.0\TPI_Cine_API.exe
+C:\Users\David\Desktop\Repo-FrontAndBack-Cine-David-\TPI_Cine_API\bin\Debug\net6.0\TPI_Cine_API.deps.json
+C:\Users\David\Desktop\Repo-FrontAndBack-Cine-David-\TPI_Cine_API\bin\Debug\net6.0\TPI_Cine_API.runtimeconfig.json
+C:\Users\David\Desktop\Repo-FrontAndBack-Cine-David-\TPI_Cine_API\bin\Debug\net6.0\TPI_Cine_API.dll
+C:\Users\David\Desktop\Repo-FrontAndBack-Cine-David-\TPI_Cine_API\bin\Debug\net6.0\TPI_Cine_API.pdb
+C:\Users\David\Desktop\Repo-FrontAndBack-Cine-David-\TPI_Cine_API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\David\Desktop\Repo-FrontAndBack-Cine-David-\TPI_Cine_API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\David\Desktop\Repo-FrontAndBack-Cine-David-\TPI_Cine_API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\David\Desktop\Repo-FrontAndBack-Cine-David-\TPI_Cine_API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\David\Desktop\Repo-FrontAndBack-Cine-David-\TPI_Cine_API\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\David\Desktop\Repo-FrontAndBack-Cine-David-\TPI_Cine_API\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\David\Desktop\Repo-FrontAndBack-Cine-David-\TPI_Cine_API\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\David\Desktop\Repo-FrontAndBack-Cine-David-\TPI_Cine_API\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\David\Desktop\Repo-FrontAndBack-Cine-David-\TPI_Cine_API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\David\Desktop\Repo-FrontAndBack-Cine-David-\TPI_Cine_API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\David\Desktop\Repo-FrontAndBack-Cine-David-\TPI_Cine_API\bin\Debug\net6.0\TPI_Backend.dll
+C:\Users\David\Desktop\Repo-FrontAndBack-Cine-David-\TPI_Cine_API\bin\Debug\net6.0\TPI_Backend.pdb
+C:\Users\David\Desktop\Repo-FrontAndBack-Cine-David-\TPI_Cine_API\obj\Debug\net6.0\TPI_Cine_API.csproj.AssemblyReference.cache
+C:\Users\David\Desktop\Repo-FrontAndBack-Cine-David-\TPI_Cine_API\obj\Debug\net6.0\TPI_Cine_API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\David\Desktop\Repo-FrontAndBack-Cine-David-\TPI_Cine_API\obj\Debug\net6.0\TPI_Cine_API.AssemblyInfoInputs.cache
+C:\Users\David\Desktop\Repo-FrontAndBack-Cine-David-\TPI_Cine_API\obj\Debug\net6.0\TPI_Cine_API.AssemblyInfo.cs
+C:\Users\David\Desktop\Repo-FrontAndBack-Cine-David-\TPI_Cine_API\obj\Debug\net6.0\TPI_Cine_API.csproj.CoreCompileInputs.cache
+C:\Users\David\Desktop\Repo-FrontAndBack-Cine-David-\TPI_Cine_API\obj\Debug\net6.0\TPI_Cine_API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\David\Desktop\Repo-FrontAndBack-Cine-David-\TPI_Cine_API\obj\Debug\net6.0\TPI_Cine_API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\David\Desktop\Repo-FrontAndBack-Cine-David-\TPI_Cine_API\obj\Debug\net6.0\staticwebassets\msbuild.TPI_Cine_API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\David\Desktop\Repo-FrontAndBack-Cine-David-\TPI_Cine_API\obj\Debug\net6.0\staticwebassets\msbuild.build.TPI_Cine_API.props
+C:\Users\David\Desktop\Repo-FrontAndBack-Cine-David-\TPI_Cine_API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.TPI_Cine_API.props
+C:\Users\David\Desktop\Repo-FrontAndBack-Cine-David-\TPI_Cine_API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.TPI_Cine_API.props
+C:\Users\David\Desktop\Repo-FrontAndBack-Cine-David-\TPI_Cine_API\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\David\Desktop\Repo-FrontAndBack-Cine-David-\TPI_Cine_API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\David\Desktop\Repo-FrontAndBack-Cine-David-\TPI_Cine_API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\David\Desktop\Repo-FrontAndBack-Cine-David-\TPI_Cine_API\obj\Debug\net6.0\scopedcss\bundle\TPI_Cine_API.styles.css
+C:\Users\David\Desktop\Repo-FrontAndBack-Cine-David-\TPI_Cine_API\obj\Debug\net6.0\TPI_Cine_API.csproj.CopyComplete
+C:\Users\David\Desktop\Repo-FrontAndBack-Cine-David-\TPI_Cine_API\obj\Debug\net6.0\TPI_Cine_API.dll
+C:\Users\David\Desktop\Repo-FrontAndBack-Cine-David-\TPI_Cine_API\obj\Debug\net6.0\refint\TPI_Cine_API.dll
+C:\Users\David\Desktop\Repo-FrontAndBack-Cine-David-\TPI_Cine_API\obj\Debug\net6.0\TPI_Cine_API.pdb
+C:\Users\David\Desktop\Repo-FrontAndBack-Cine-David-\TPI_Cine_API\obj\Debug\net6.0\TPI_Cine_API.genruntimeconfig.cache
+C:\Users\David\Desktop\Repo-FrontAndBack-Cine-David-\TPI_Cine_API\obj\Debug\net6.0\ref\TPI_Cine_API.dll
+C:\Users\Ignacio\Desktop\TP_CINE\lts\Repo-FrontAndBack-Cine-David-\TPI_Cine_API\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Ignacio\Desktop\TP_CINE\lts\Repo-FrontAndBack-Cine-David-\TPI_Cine_API\bin\Debug\net6.0\appsettings.json
+C:\Users\Ignacio\Desktop\TP_CINE\lts\Repo-FrontAndBack-Cine-David-\TPI_Cine_API\bin\Debug\net6.0\TPI_Cine_API.exe
+C:\Users\Ignacio\Desktop\TP_CINE\lts\Repo-FrontAndBack-Cine-David-\TPI_Cine_API\bin\Debug\net6.0\TPI_Cine_API.deps.json
+C:\Users\Ignacio\Desktop\TP_CINE\lts\Repo-FrontAndBack-Cine-David-\TPI_Cine_API\bin\Debug\net6.0\TPI_Cine_API.runtimeconfig.json
+C:\Users\Ignacio\Desktop\TP_CINE\lts\Repo-FrontAndBack-Cine-David-\TPI_Cine_API\bin\Debug\net6.0\TPI_Cine_API.dll
+C:\Users\Ignacio\Desktop\TP_CINE\lts\Repo-FrontAndBack-Cine-David-\TPI_Cine_API\bin\Debug\net6.0\TPI_Cine_API.pdb
+C:\Users\Ignacio\Desktop\TP_CINE\lts\Repo-FrontAndBack-Cine-David-\TPI_Cine_API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Ignacio\Desktop\TP_CINE\lts\Repo-FrontAndBack-Cine-David-\TPI_Cine_API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Ignacio\Desktop\TP_CINE\lts\Repo-FrontAndBack-Cine-David-\TPI_Cine_API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Ignacio\Desktop\TP_CINE\lts\Repo-FrontAndBack-Cine-David-\TPI_Cine_API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Ignacio\Desktop\TP_CINE\lts\Repo-FrontAndBack-Cine-David-\TPI_Cine_API\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\Ignacio\Desktop\TP_CINE\lts\Repo-FrontAndBack-Cine-David-\TPI_Cine_API\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Ignacio\Desktop\TP_CINE\lts\Repo-FrontAndBack-Cine-David-\TPI_Cine_API\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\Ignacio\Desktop\TP_CINE\lts\Repo-FrontAndBack-Cine-David-\TPI_Cine_API\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\Ignacio\Desktop\TP_CINE\lts\Repo-FrontAndBack-Cine-David-\TPI_Cine_API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Ignacio\Desktop\TP_CINE\lts\Repo-FrontAndBack-Cine-David-\TPI_Cine_API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Ignacio\Desktop\TP_CINE\lts\Repo-FrontAndBack-Cine-David-\TPI_Cine_API\bin\Debug\net6.0\TPI_Backend.dll
+C:\Users\Ignacio\Desktop\TP_CINE\lts\Repo-FrontAndBack-Cine-David-\TPI_Cine_API\bin\Debug\net6.0\TPI_Backend.pdb
+C:\Users\Ignacio\Desktop\TP_CINE\lts\Repo-FrontAndBack-Cine-David-\TPI_Cine_API\obj\Debug\net6.0\TPI_Cine_API.csproj.AssemblyReference.cache
+C:\Users\Ignacio\Desktop\TP_CINE\lts\Repo-FrontAndBack-Cine-David-\TPI_Cine_API\obj\Debug\net6.0\TPI_Cine_API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ignacio\Desktop\TP_CINE\lts\Repo-FrontAndBack-Cine-David-\TPI_Cine_API\obj\Debug\net6.0\TPI_Cine_API.AssemblyInfoInputs.cache
+C:\Users\Ignacio\Desktop\TP_CINE\lts\Repo-FrontAndBack-Cine-David-\TPI_Cine_API\obj\Debug\net6.0\TPI_Cine_API.AssemblyInfo.cs
+C:\Users\Ignacio\Desktop\TP_CINE\lts\Repo-FrontAndBack-Cine-David-\TPI_Cine_API\obj\Debug\net6.0\TPI_Cine_API.csproj.CoreCompileInputs.cache
+C:\Users\Ignacio\Desktop\TP_CINE\lts\Repo-FrontAndBack-Cine-David-\TPI_Cine_API\obj\Debug\net6.0\TPI_Cine_API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Ignacio\Desktop\TP_CINE\lts\Repo-FrontAndBack-Cine-David-\TPI_Cine_API\obj\Debug\net6.0\TPI_Cine_API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Ignacio\Desktop\TP_CINE\lts\Repo-FrontAndBack-Cine-David-\TPI_Cine_API\obj\Debug\net6.0\staticwebassets\msbuild.TPI_Cine_API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Ignacio\Desktop\TP_CINE\lts\Repo-FrontAndBack-Cine-David-\TPI_Cine_API\obj\Debug\net6.0\staticwebassets\msbuild.build.TPI_Cine_API.props
+C:\Users\Ignacio\Desktop\TP_CINE\lts\Repo-FrontAndBack-Cine-David-\TPI_Cine_API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.TPI_Cine_API.props
+C:\Users\Ignacio\Desktop\TP_CINE\lts\Repo-FrontAndBack-Cine-David-\TPI_Cine_API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.TPI_Cine_API.props
+C:\Users\Ignacio\Desktop\TP_CINE\lts\Repo-FrontAndBack-Cine-David-\TPI_Cine_API\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Ignacio\Desktop\TP_CINE\lts\Repo-FrontAndBack-Cine-David-\TPI_Cine_API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Ignacio\Desktop\TP_CINE\lts\Repo-FrontAndBack-Cine-David-\TPI_Cine_API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Ignacio\Desktop\TP_CINE\lts\Repo-FrontAndBack-Cine-David-\TPI_Cine_API\obj\Debug\net6.0\scopedcss\bundle\TPI_Cine_API.styles.css
+C:\Users\Ignacio\Desktop\TP_CINE\lts\Repo-FrontAndBack-Cine-David-\TPI_Cine_API\obj\Debug\net6.0\TPI_Cine_API.csproj.CopyComplete
+C:\Users\Ignacio\Desktop\TP_CINE\lts\Repo-FrontAndBack-Cine-David-\TPI_Cine_API\obj\Debug\net6.0\TPI_Cine_API.dll
+C:\Users\Ignacio\Desktop\TP_CINE\lts\Repo-FrontAndBack-Cine-David-\TPI_Cine_API\obj\Debug\net6.0\refint\TPI_Cine_API.dll
+C:\Users\Ignacio\Desktop\TP_CINE\lts\Repo-FrontAndBack-Cine-David-\TPI_Cine_API\obj\Debug\net6.0\TPI_Cine_API.pdb
+C:\Users\Ignacio\Desktop\TP_CINE\lts\Repo-FrontAndBack-Cine-David-\TPI_Cine_API\obj\Debug\net6.0\TPI_Cine_API.genruntimeconfig.cache
+C:\Users\Ignacio\Desktop\TP_CINE\lts\Repo-FrontAndBack-Cine-David-\TPI_Cine_API\obj\Debug\net6.0\ref\TPI_Cine_API.dll
+C:\Users\Juan\Desktop\FACULTAD\Programacion\Programación 2\ProyectoCine\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Juan\Desktop\FACULTAD\Programacion\Programación 2\ProyectoCine\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\appsettings.json
+C:\Users\Juan\Desktop\FACULTAD\Programacion\Programación 2\ProyectoCine\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\TPI_Cine_API.exe
+C:\Users\Juan\Desktop\FACULTAD\Programacion\Programación 2\ProyectoCine\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\TPI_Cine_API.deps.json
+C:\Users\Juan\Desktop\FACULTAD\Programacion\Programación 2\ProyectoCine\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\TPI_Cine_API.runtimeconfig.json
+C:\Users\Juan\Desktop\FACULTAD\Programacion\Programación 2\ProyectoCine\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\TPI_Cine_API.dll
+C:\Users\Juan\Desktop\FACULTAD\Programacion\Programación 2\ProyectoCine\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\TPI_Cine_API.pdb
+C:\Users\Juan\Desktop\FACULTAD\Programacion\Programación 2\ProyectoCine\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Juan\Desktop\FACULTAD\Programacion\Programación 2\ProyectoCine\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Juan\Desktop\FACULTAD\Programacion\Programación 2\ProyectoCine\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Juan\Desktop\FACULTAD\Programacion\Programación 2\ProyectoCine\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Juan\Desktop\FACULTAD\Programacion\Programación 2\ProyectoCine\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\Juan\Desktop\FACULTAD\Programacion\Programación 2\ProyectoCine\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Juan\Desktop\FACULTAD\Programacion\Programación 2\ProyectoCine\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\Juan\Desktop\FACULTAD\Programacion\Programación 2\ProyectoCine\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\Juan\Desktop\FACULTAD\Programacion\Programación 2\ProyectoCine\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Juan\Desktop\FACULTAD\Programacion\Programación 2\ProyectoCine\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Juan\Desktop\FACULTAD\Programacion\Programación 2\ProyectoCine\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\TPI_Backend.dll
+C:\Users\Juan\Desktop\FACULTAD\Programacion\Programación 2\ProyectoCine\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\TPI_Backend.pdb
+C:\Users\Juan\Desktop\FACULTAD\Programacion\Programación 2\ProyectoCine\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\TPI_Cine_API.csproj.AssemblyReference.cache
+C:\Users\Juan\Desktop\FACULTAD\Programacion\Programación 2\ProyectoCine\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\TPI_Cine_API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juan\Desktop\FACULTAD\Programacion\Programación 2\ProyectoCine\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\TPI_Cine_API.AssemblyInfoInputs.cache
+C:\Users\Juan\Desktop\FACULTAD\Programacion\Programación 2\ProyectoCine\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\TPI_Cine_API.AssemblyInfo.cs
+C:\Users\Juan\Desktop\FACULTAD\Programacion\Programación 2\ProyectoCine\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\TPI_Cine_API.csproj.CoreCompileInputs.cache
+C:\Users\Juan\Desktop\FACULTAD\Programacion\Programación 2\ProyectoCine\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\TPI_Cine_API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Juan\Desktop\FACULTAD\Programacion\Programación 2\ProyectoCine\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\TPI_Cine_API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Juan\Desktop\FACULTAD\Programacion\Programación 2\ProyectoCine\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\TPI_Cine_API.sourcelink.json
+C:\Users\Juan\Desktop\FACULTAD\Programacion\Programación 2\ProyectoCine\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Juan\Desktop\FACULTAD\Programacion\Programación 2\ProyectoCine\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Juan\Desktop\FACULTAD\Programacion\Programación 2\ProyectoCine\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\staticwebassets\msbuild.TPI_Cine_API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Juan\Desktop\FACULTAD\Programacion\Programación 2\ProyectoCine\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\staticwebassets\msbuild.build.TPI_Cine_API.props
+C:\Users\Juan\Desktop\FACULTAD\Programacion\Programación 2\ProyectoCine\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.TPI_Cine_API.props
+C:\Users\Juan\Desktop\FACULTAD\Programacion\Programación 2\ProyectoCine\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.TPI_Cine_API.props
+C:\Users\Juan\Desktop\FACULTAD\Programacion\Programación 2\ProyectoCine\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Juan\Desktop\FACULTAD\Programacion\Programación 2\ProyectoCine\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\scopedcss\bundle\TPI_Cine_API.styles.css
+C:\Users\Juan\Desktop\FACULTAD\Programacion\Programación 2\ProyectoCine\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\TPI_Cine_API.csproj.CopyComplete
+C:\Users\Juan\Desktop\FACULTAD\Programacion\Programación 2\ProyectoCine\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\TPI_Cine_API.dll
+C:\Users\Juan\Desktop\FACULTAD\Programacion\Programación 2\ProyectoCine\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\refint\TPI_Cine_API.dll
+C:\Users\Juan\Desktop\FACULTAD\Programacion\Programación 2\ProyectoCine\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\TPI_Cine_API.pdb
+C:\Users\Juan\Desktop\FACULTAD\Programacion\Programación 2\ProyectoCine\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\TPI_Cine_API.genruntimeconfig.cache
+C:\Users\Juan\Desktop\FACULTAD\Programacion\Programación 2\ProyectoCine\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\ref\TPI_Cine_API.dll
+C:\Users\alumno\Desktop\Repo-FrontAndBack-Cine-V6-\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\alumno\Desktop\Repo-FrontAndBack-Cine-V6-\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\appsettings.json
+C:\Users\alumno\Desktop\Repo-FrontAndBack-Cine-V6-\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\TPI_Cine_API.exe
+C:\Users\alumno\Desktop\Repo-FrontAndBack-Cine-V6-\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\TPI_Cine_API.deps.json
+C:\Users\alumno\Desktop\Repo-FrontAndBack-Cine-V6-\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\TPI_Cine_API.runtimeconfig.json
+C:\Users\alumno\Desktop\Repo-FrontAndBack-Cine-V6-\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\TPI_Cine_API.dll
+C:\Users\alumno\Desktop\Repo-FrontAndBack-Cine-V6-\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\TPI_Cine_API.pdb
+C:\Users\alumno\Desktop\Repo-FrontAndBack-Cine-V6-\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\alumno\Desktop\Repo-FrontAndBack-Cine-V6-\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\alumno\Desktop\Repo-FrontAndBack-Cine-V6-\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\alumno\Desktop\Repo-FrontAndBack-Cine-V6-\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\alumno\Desktop\Repo-FrontAndBack-Cine-V6-\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\alumno\Desktop\Repo-FrontAndBack-Cine-V6-\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\alumno\Desktop\Repo-FrontAndBack-Cine-V6-\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\alumno\Desktop\Repo-FrontAndBack-Cine-V6-\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\alumno\Desktop\Repo-FrontAndBack-Cine-V6-\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\alumno\Desktop\Repo-FrontAndBack-Cine-V6-\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\alumno\Desktop\Repo-FrontAndBack-Cine-V6-\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\TPI_Backend.dll
+C:\Users\alumno\Desktop\Repo-FrontAndBack-Cine-V6-\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\TPI_Backend.pdb
+C:\Users\alumno\Desktop\Repo-FrontAndBack-Cine-V6-\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\TPI_Cine_API.csproj.AssemblyReference.cache
+C:\Users\alumno\Desktop\Repo-FrontAndBack-Cine-V6-\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\TPI_Cine_API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alumno\Desktop\Repo-FrontAndBack-Cine-V6-\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\TPI_Cine_API.AssemblyInfoInputs.cache
+C:\Users\alumno\Desktop\Repo-FrontAndBack-Cine-V6-\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\TPI_Cine_API.AssemblyInfo.cs
+C:\Users\alumno\Desktop\Repo-FrontAndBack-Cine-V6-\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\TPI_Cine_API.csproj.CoreCompileInputs.cache
+C:\Users\alumno\Desktop\Repo-FrontAndBack-Cine-V6-\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\TPI_Cine_API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\alumno\Desktop\Repo-FrontAndBack-Cine-V6-\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\TPI_Cine_API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\alumno\Desktop\Repo-FrontAndBack-Cine-V6-\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\staticwebassets\msbuild.TPI_Cine_API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\alumno\Desktop\Repo-FrontAndBack-Cine-V6-\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\staticwebassets\msbuild.build.TPI_Cine_API.props
+C:\Users\alumno\Desktop\Repo-FrontAndBack-Cine-V6-\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.TPI_Cine_API.props
+C:\Users\alumno\Desktop\Repo-FrontAndBack-Cine-V6-\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.TPI_Cine_API.props
+C:\Users\alumno\Desktop\Repo-FrontAndBack-Cine-V6-\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\alumno\Desktop\Repo-FrontAndBack-Cine-V6-\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\alumno\Desktop\Repo-FrontAndBack-Cine-V6-\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\alumno\Desktop\Repo-FrontAndBack-Cine-V6-\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\scopedcss\bundle\TPI_Cine_API.styles.css
+C:\Users\alumno\Desktop\Repo-FrontAndBack-Cine-V6-\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\TPI_Cine_API.csproj.CopyComplete
+C:\Users\alumno\Desktop\Repo-FrontAndBack-Cine-V6-\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\TPI_Cine_API.dll
+C:\Users\alumno\Desktop\Repo-FrontAndBack-Cine-V6-\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\refint\TPI_Cine_API.dll
+C:\Users\alumno\Desktop\Repo-FrontAndBack-Cine-V6-\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\TPI_Cine_API.pdb
+C:\Users\alumno\Desktop\Repo-FrontAndBack-Cine-V6-\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\TPI_Cine_API.genruntimeconfig.cache
+C:\Users\alumno\Desktop\Repo-FrontAndBack-Cine-V6-\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\ref\TPI_Cine_API.dll
+C:\Users\Ignacio\Desktop\TP_CINE\lts\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\TPI_Cine_API.csproj.AssemblyReference.cache
+C:\Users\Ignacio\Desktop\TP_CINE\lts\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\TPI_Cine_API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ignacio\Desktop\TP_CINE\lts\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\TPI_Cine_API.AssemblyInfoInputs.cache
+C:\Users\Ignacio\Desktop\TP_CINE\lts\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\TPI_Cine_API.AssemblyInfo.cs
+C:\Users\Ignacio\Desktop\TP_CINE\lts\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\TPI_Cine_API.csproj.CoreCompileInputs.cache
+C:\Users\Ignacio\Desktop\TP_CINE\lts\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\TPI_Cine_API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Ignacio\Desktop\TP_CINE\lts\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\TPI_Cine_API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Ignacio\Desktop\TP_CINE\lts\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\TPI_Cine_API.dll
+C:\Users\Ignacio\Desktop\TP_CINE\lts\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\refint\TPI_Cine_API.dll
+C:\Users\Ignacio\Desktop\TP_CINE\lts\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\TPI_Cine_API.pdb
+C:\Users\Ignacio\Desktop\TP_CINE\lts\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Ignacio\Desktop\TP_CINE\lts\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\appsettings.json
+C:\Users\Ignacio\Desktop\TP_CINE\lts\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\TPI_Cine_API.exe
+C:\Users\Ignacio\Desktop\TP_CINE\lts\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\TPI_Cine_API.deps.json
+C:\Users\Ignacio\Desktop\TP_CINE\lts\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\TPI_Cine_API.runtimeconfig.json
+C:\Users\Ignacio\Desktop\TP_CINE\lts\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\TPI_Cine_API.dll
+C:\Users\Ignacio\Desktop\TP_CINE\lts\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\TPI_Cine_API.pdb
+C:\Users\Ignacio\Desktop\TP_CINE\lts\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Ignacio\Desktop\TP_CINE\lts\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Ignacio\Desktop\TP_CINE\lts\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Ignacio\Desktop\TP_CINE\lts\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Ignacio\Desktop\TP_CINE\lts\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\Ignacio\Desktop\TP_CINE\lts\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Ignacio\Desktop\TP_CINE\lts\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\Ignacio\Desktop\TP_CINE\lts\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\Ignacio\Desktop\TP_CINE\lts\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Ignacio\Desktop\TP_CINE\lts\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Ignacio\Desktop\TP_CINE\lts\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\TPI_Backend.dll
+C:\Users\Ignacio\Desktop\TP_CINE\lts\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\TPI_Backend.pdb
+C:\Users\Ignacio\Desktop\TP_CINE\lts\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\staticwebassets\msbuild.TPI_Cine_API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Ignacio\Desktop\TP_CINE\lts\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\staticwebassets\msbuild.build.TPI_Cine_API.props
+C:\Users\Ignacio\Desktop\TP_CINE\lts\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.TPI_Cine_API.props
+C:\Users\Ignacio\Desktop\TP_CINE\lts\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.TPI_Cine_API.props
+C:\Users\Ignacio\Desktop\TP_CINE\lts\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Ignacio\Desktop\TP_CINE\lts\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Ignacio\Desktop\TP_CINE\lts\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Ignacio\Desktop\TP_CINE\lts\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\scopedcss\bundle\TPI_Cine_API.styles.css
+C:\Users\Ignacio\Desktop\TP_CINE\lts\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\TPI_Cine_API.csproj.CopyComplete
+C:\Users\Ignacio\Desktop\TP_CINE\lts\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\TPI_Cine_API.genruntimeconfig.cache
+C:\Users\Ignacio\Desktop\TP_CINE\lts\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\ref\TPI_Cine_API.dll
+C:\Users\Santino\Desktop\ProyectoCINE\TP_CINEV7\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Santino\Desktop\ProyectoCINE\TP_CINEV7\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\appsettings.json
+C:\Users\Santino\Desktop\ProyectoCINE\TP_CINEV7\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\TPI_Cine_API.exe
+C:\Users\Santino\Desktop\ProyectoCINE\TP_CINEV7\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\TPI_Cine_API.deps.json
+C:\Users\Santino\Desktop\ProyectoCINE\TP_CINEV7\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\TPI_Cine_API.runtimeconfig.json
+C:\Users\Santino\Desktop\ProyectoCINE\TP_CINEV7\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\TPI_Cine_API.dll
+C:\Users\Santino\Desktop\ProyectoCINE\TP_CINEV7\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\TPI_Cine_API.pdb
+C:\Users\Santino\Desktop\ProyectoCINE\TP_CINEV7\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Santino\Desktop\ProyectoCINE\TP_CINEV7\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Santino\Desktop\ProyectoCINE\TP_CINEV7\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Santino\Desktop\ProyectoCINE\TP_CINEV7\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Santino\Desktop\ProyectoCINE\TP_CINEV7\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\Santino\Desktop\ProyectoCINE\TP_CINEV7\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Santino\Desktop\ProyectoCINE\TP_CINEV7\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\Santino\Desktop\ProyectoCINE\TP_CINEV7\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\Santino\Desktop\ProyectoCINE\TP_CINEV7\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Santino\Desktop\ProyectoCINE\TP_CINEV7\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Santino\Desktop\ProyectoCINE\TP_CINEV7\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\TPI_Backend.dll
+C:\Users\Santino\Desktop\ProyectoCINE\TP_CINEV7\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\TPI_Backend.pdb
+C:\Users\Santino\Desktop\ProyectoCINE\TP_CINEV7\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\TPI_Cine_API.csproj.AssemblyReference.cache
+C:\Users\Santino\Desktop\ProyectoCINE\TP_CINEV7\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\TPI_Cine_API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Santino\Desktop\ProyectoCINE\TP_CINEV7\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\TPI_Cine_API.AssemblyInfoInputs.cache
+C:\Users\Santino\Desktop\ProyectoCINE\TP_CINEV7\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\TPI_Cine_API.AssemblyInfo.cs
+C:\Users\Santino\Desktop\ProyectoCINE\TP_CINEV7\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\TPI_Cine_API.csproj.CoreCompileInputs.cache
+C:\Users\Santino\Desktop\ProyectoCINE\TP_CINEV7\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\TPI_Cine_API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Santino\Desktop\ProyectoCINE\TP_CINEV7\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\TPI_Cine_API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Santino\Desktop\ProyectoCINE\TP_CINEV7\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\staticwebassets\msbuild.TPI_Cine_API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Santino\Desktop\ProyectoCINE\TP_CINEV7\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\staticwebassets\msbuild.build.TPI_Cine_API.props
+C:\Users\Santino\Desktop\ProyectoCINE\TP_CINEV7\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.TPI_Cine_API.props
+C:\Users\Santino\Desktop\ProyectoCINE\TP_CINEV7\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.TPI_Cine_API.props
+C:\Users\Santino\Desktop\ProyectoCINE\TP_CINEV7\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Santino\Desktop\ProyectoCINE\TP_CINEV7\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Santino\Desktop\ProyectoCINE\TP_CINEV7\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Santino\Desktop\ProyectoCINE\TP_CINEV7\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\scopedcss\bundle\TPI_Cine_API.styles.css
+C:\Users\Santino\Desktop\ProyectoCINE\TP_CINEV7\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\TPI_Cine_API.csproj.CopyComplete
+C:\Users\Santino\Desktop\ProyectoCINE\TP_CINEV7\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\TPI_Cine_API.dll
+C:\Users\Santino\Desktop\ProyectoCINE\TP_CINEV7\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\refint\TPI_Cine_API.dll
+C:\Users\Santino\Desktop\ProyectoCINE\TP_CINEV7\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\TPI_Cine_API.pdb
+C:\Users\Santino\Desktop\ProyectoCINE\TP_CINEV7\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\TPI_Cine_API.genruntimeconfig.cache
+C:\Users\Santino\Desktop\ProyectoCINE\TP_CINEV7\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\ref\TPI_Cine_API.dll
+C:\Users\Ignacio\Desktop\TP_CINE\lts\TP_CINEV8\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Ignacio\Desktop\TP_CINE\lts\TP_CINEV8\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\appsettings.json
+C:\Users\Ignacio\Desktop\TP_CINE\lts\TP_CINEV8\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\TPI_Cine_API.exe
+C:\Users\Ignacio\Desktop\TP_CINE\lts\TP_CINEV8\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\TPI_Cine_API.deps.json
+C:\Users\Ignacio\Desktop\TP_CINE\lts\TP_CINEV8\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\TPI_Cine_API.runtimeconfig.json
+C:\Users\Ignacio\Desktop\TP_CINE\lts\TP_CINEV8\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\TPI_Cine_API.dll
+C:\Users\Ignacio\Desktop\TP_CINE\lts\TP_CINEV8\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\TPI_Cine_API.pdb
+C:\Users\Ignacio\Desktop\TP_CINE\lts\TP_CINEV8\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Ignacio\Desktop\TP_CINE\lts\TP_CINEV8\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Ignacio\Desktop\TP_CINE\lts\TP_CINEV8\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Ignacio\Desktop\TP_CINE\lts\TP_CINEV8\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Ignacio\Desktop\TP_CINE\lts\TP_CINEV8\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\Ignacio\Desktop\TP_CINE\lts\TP_CINEV8\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Ignacio\Desktop\TP_CINE\lts\TP_CINEV8\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\Ignacio\Desktop\TP_CINE\lts\TP_CINEV8\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\Ignacio\Desktop\TP_CINE\lts\TP_CINEV8\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Ignacio\Desktop\TP_CINE\lts\TP_CINEV8\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Ignacio\Desktop\TP_CINE\lts\TP_CINEV8\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\TPI_Backend.dll
+C:\Users\Ignacio\Desktop\TP_CINE\lts\TP_CINEV8\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\TPI_Backend.pdb
+C:\Users\Ignacio\Desktop\TP_CINE\lts\TP_CINEV8\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\TPI_Cine_API.csproj.AssemblyReference.cache
+C:\Users\Ignacio\Desktop\TP_CINE\lts\TP_CINEV8\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\TPI_Cine_API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ignacio\Desktop\TP_CINE\lts\TP_CINEV8\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\TPI_Cine_API.AssemblyInfoInputs.cache
+C:\Users\Ignacio\Desktop\TP_CINE\lts\TP_CINEV8\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\TPI_Cine_API.AssemblyInfo.cs
+C:\Users\Ignacio\Desktop\TP_CINE\lts\TP_CINEV8\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\TPI_Cine_API.csproj.CoreCompileInputs.cache
+C:\Users\Ignacio\Desktop\TP_CINE\lts\TP_CINEV8\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\TPI_Cine_API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Ignacio\Desktop\TP_CINE\lts\TP_CINEV8\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\TPI_Cine_API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Ignacio\Desktop\TP_CINE\lts\TP_CINEV8\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\staticwebassets\msbuild.TPI_Cine_API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Ignacio\Desktop\TP_CINE\lts\TP_CINEV8\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\staticwebassets\msbuild.build.TPI_Cine_API.props
+C:\Users\Ignacio\Desktop\TP_CINE\lts\TP_CINEV8\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.TPI_Cine_API.props
+C:\Users\Ignacio\Desktop\TP_CINE\lts\TP_CINEV8\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.TPI_Cine_API.props
+C:\Users\Ignacio\Desktop\TP_CINE\lts\TP_CINEV8\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Ignacio\Desktop\TP_CINE\lts\TP_CINEV8\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Ignacio\Desktop\TP_CINE\lts\TP_CINEV8\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Ignacio\Desktop\TP_CINE\lts\TP_CINEV8\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\scopedcss\bundle\TPI_Cine_API.styles.css
+C:\Users\Ignacio\Desktop\TP_CINE\lts\TP_CINEV8\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\TPI_Cine_API.csproj.CopyComplete
+C:\Users\Ignacio\Desktop\TP_CINE\lts\TP_CINEV8\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\TPI_Cine_API.dll
+C:\Users\Ignacio\Desktop\TP_CINE\lts\TP_CINEV8\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\refint\TPI_Cine_API.dll
+C:\Users\Ignacio\Desktop\TP_CINE\lts\TP_CINEV8\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\TPI_Cine_API.pdb
+C:\Users\Ignacio\Desktop\TP_CINE\lts\TP_CINEV8\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\TPI_Cine_API.genruntimeconfig.cache
+C:\Users\Ignacio\Desktop\TP_CINE\lts\TP_CINEV8\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\ref\TPI_Cine_API.dll
+C:\Users\Santino\Desktop\ProyectoCINE\TP_CINEV10\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Santino\Desktop\ProyectoCINE\TP_CINEV10\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\appsettings.json
+C:\Users\Santino\Desktop\ProyectoCINE\TP_CINEV10\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\TPI_Cine_API.exe
+C:\Users\Santino\Desktop\ProyectoCINE\TP_CINEV10\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\TPI_Cine_API.deps.json
+C:\Users\Santino\Desktop\ProyectoCINE\TP_CINEV10\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\TPI_Cine_API.runtimeconfig.json
+C:\Users\Santino\Desktop\ProyectoCINE\TP_CINEV10\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\TPI_Cine_API.dll
+C:\Users\Santino\Desktop\ProyectoCINE\TP_CINEV10\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\TPI_Cine_API.pdb
+C:\Users\Santino\Desktop\ProyectoCINE\TP_CINEV10\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Santino\Desktop\ProyectoCINE\TP_CINEV10\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Santino\Desktop\ProyectoCINE\TP_CINEV10\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Santino\Desktop\ProyectoCINE\TP_CINEV10\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Santino\Desktop\ProyectoCINE\TP_CINEV10\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\Santino\Desktop\ProyectoCINE\TP_CINEV10\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Santino\Desktop\ProyectoCINE\TP_CINEV10\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\Santino\Desktop\ProyectoCINE\TP_CINEV10\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\Santino\Desktop\ProyectoCINE\TP_CINEV10\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Santino\Desktop\ProyectoCINE\TP_CINEV10\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Santino\Desktop\ProyectoCINE\TP_CINEV10\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\TPI_Backend.dll
+C:\Users\Santino\Desktop\ProyectoCINE\TP_CINEV10\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\TPI_Backend.pdb
+C:\Users\Santino\Desktop\ProyectoCINE\TP_CINEV10\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\TPI_Cine_API.csproj.AssemblyReference.cache
+C:\Users\Santino\Desktop\ProyectoCINE\TP_CINEV10\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\TPI_Cine_API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Santino\Desktop\ProyectoCINE\TP_CINEV10\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\TPI_Cine_API.AssemblyInfoInputs.cache
+C:\Users\Santino\Desktop\ProyectoCINE\TP_CINEV10\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\TPI_Cine_API.AssemblyInfo.cs
+C:\Users\Santino\Desktop\ProyectoCINE\TP_CINEV10\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\TPI_Cine_API.csproj.CoreCompileInputs.cache
+C:\Users\Santino\Desktop\ProyectoCINE\TP_CINEV10\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\TPI_Cine_API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Santino\Desktop\ProyectoCINE\TP_CINEV10\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\TPI_Cine_API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Santino\Desktop\ProyectoCINE\TP_CINEV10\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\staticwebassets\msbuild.TPI_Cine_API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Santino\Desktop\ProyectoCINE\TP_CINEV10\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\staticwebassets\msbuild.build.TPI_Cine_API.props
+C:\Users\Santino\Desktop\ProyectoCINE\TP_CINEV10\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.TPI_Cine_API.props
+C:\Users\Santino\Desktop\ProyectoCINE\TP_CINEV10\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.TPI_Cine_API.props
+C:\Users\Santino\Desktop\ProyectoCINE\TP_CINEV10\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Santino\Desktop\ProyectoCINE\TP_CINEV10\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Santino\Desktop\ProyectoCINE\TP_CINEV10\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Santino\Desktop\ProyectoCINE\TP_CINEV10\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\scopedcss\bundle\TPI_Cine_API.styles.css
+C:\Users\Santino\Desktop\ProyectoCINE\TP_CINEV10\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\TPI_Cine_API.csproj.CopyComplete
+C:\Users\Santino\Desktop\ProyectoCINE\TP_CINEV10\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\TPI_Cine_API.dll
+C:\Users\Santino\Desktop\ProyectoCINE\TP_CINEV10\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\refint\TPI_Cine_API.dll
+C:\Users\Santino\Desktop\ProyectoCINE\TP_CINEV10\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\TPI_Cine_API.pdb
+C:\Users\Santino\Desktop\ProyectoCINE\TP_CINEV10\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\TPI_Cine_API.genruntimeconfig.cache
+C:\Users\Santino\Desktop\ProyectoCINE\TP_CINEV10\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\ref\TPI_Cine_API.dll
+C:\Users\Santino\Desktop\ProyectoCINE\TP_CINEV11\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Santino\Desktop\ProyectoCINE\TP_CINEV11\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\appsettings.json
+C:\Users\Santino\Desktop\ProyectoCINE\TP_CINEV11\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\TPI_Cine_API.exe
+C:\Users\Santino\Desktop\ProyectoCINE\TP_CINEV11\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\TPI_Cine_API.deps.json
+C:\Users\Santino\Desktop\ProyectoCINE\TP_CINEV11\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\TPI_Cine_API.runtimeconfig.json
+C:\Users\Santino\Desktop\ProyectoCINE\TP_CINEV11\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\TPI_Cine_API.dll
+C:\Users\Santino\Desktop\ProyectoCINE\TP_CINEV11\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\TPI_Cine_API.pdb
+C:\Users\Santino\Desktop\ProyectoCINE\TP_CINEV11\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Santino\Desktop\ProyectoCINE\TP_CINEV11\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Santino\Desktop\ProyectoCINE\TP_CINEV11\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Santino\Desktop\ProyectoCINE\TP_CINEV11\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Santino\Desktop\ProyectoCINE\TP_CINEV11\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\Santino\Desktop\ProyectoCINE\TP_CINEV11\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Santino\Desktop\ProyectoCINE\TP_CINEV11\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\Santino\Desktop\ProyectoCINE\TP_CINEV11\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\Santino\Desktop\ProyectoCINE\TP_CINEV11\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Santino\Desktop\ProyectoCINE\TP_CINEV11\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Santino\Desktop\ProyectoCINE\TP_CINEV11\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\TPI_Backend.dll
+C:\Users\Santino\Desktop\ProyectoCINE\TP_CINEV11\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\TPI_Backend.pdb
+C:\Users\Santino\Desktop\ProyectoCINE\TP_CINEV11\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\TPI_Cine_API.csproj.AssemblyReference.cache
+C:\Users\Santino\Desktop\ProyectoCINE\TP_CINEV11\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\TPI_Cine_API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Santino\Desktop\ProyectoCINE\TP_CINEV11\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\TPI_Cine_API.AssemblyInfoInputs.cache
+C:\Users\Santino\Desktop\ProyectoCINE\TP_CINEV11\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\TPI_Cine_API.AssemblyInfo.cs
+C:\Users\Santino\Desktop\ProyectoCINE\TP_CINEV11\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\TPI_Cine_API.csproj.CoreCompileInputs.cache
+C:\Users\Santino\Desktop\ProyectoCINE\TP_CINEV11\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\TPI_Cine_API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Santino\Desktop\ProyectoCINE\TP_CINEV11\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\TPI_Cine_API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Santino\Desktop\ProyectoCINE\TP_CINEV11\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\staticwebassets\msbuild.TPI_Cine_API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Santino\Desktop\ProyectoCINE\TP_CINEV11\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\staticwebassets\msbuild.build.TPI_Cine_API.props
+C:\Users\Santino\Desktop\ProyectoCINE\TP_CINEV11\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.TPI_Cine_API.props
+C:\Users\Santino\Desktop\ProyectoCINE\TP_CINEV11\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.TPI_Cine_API.props
+C:\Users\Santino\Desktop\ProyectoCINE\TP_CINEV11\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Santino\Desktop\ProyectoCINE\TP_CINEV11\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Santino\Desktop\ProyectoCINE\TP_CINEV11\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Santino\Desktop\ProyectoCINE\TP_CINEV11\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\scopedcss\bundle\TPI_Cine_API.styles.css
+C:\Users\Santino\Desktop\ProyectoCINE\TP_CINEV11\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\TPI_Cine_API.csproj.CopyComplete
+C:\Users\Santino\Desktop\ProyectoCINE\TP_CINEV11\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\TPI_Cine_API.dll
+C:\Users\Santino\Desktop\ProyectoCINE\TP_CINEV11\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\refint\TPI_Cine_API.dll
+C:\Users\Santino\Desktop\ProyectoCINE\TP_CINEV11\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\TPI_Cine_API.pdb
+C:\Users\Santino\Desktop\ProyectoCINE\TP_CINEV11\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\TPI_Cine_API.genruntimeconfig.cache
+C:\Users\Santino\Desktop\ProyectoCINE\TP_CINEV11\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\ref\TPI_Cine_API.dll
+C:\Users\Ignacio\Desktop\TP_CINE\lts\TP_CINEV13\TP_CINEV12\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Ignacio\Desktop\TP_CINE\lts\TP_CINEV13\TP_CINEV12\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\appsettings.json
+C:\Users\Ignacio\Desktop\TP_CINE\lts\TP_CINEV13\TP_CINEV12\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\TPI_Cine_API.exe
+C:\Users\Ignacio\Desktop\TP_CINE\lts\TP_CINEV13\TP_CINEV12\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\TPI_Cine_API.deps.json
+C:\Users\Ignacio\Desktop\TP_CINE\lts\TP_CINEV13\TP_CINEV12\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\TPI_Cine_API.runtimeconfig.json
+C:\Users\Ignacio\Desktop\TP_CINE\lts\TP_CINEV13\TP_CINEV12\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\TPI_Cine_API.dll
+C:\Users\Ignacio\Desktop\TP_CINE\lts\TP_CINEV13\TP_CINEV12\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\TPI_Cine_API.pdb
+C:\Users\Ignacio\Desktop\TP_CINE\lts\TP_CINEV13\TP_CINEV12\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Ignacio\Desktop\TP_CINE\lts\TP_CINEV13\TP_CINEV12\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Ignacio\Desktop\TP_CINE\lts\TP_CINEV13\TP_CINEV12\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Ignacio\Desktop\TP_CINE\lts\TP_CINEV13\TP_CINEV12\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Ignacio\Desktop\TP_CINE\lts\TP_CINEV13\TP_CINEV12\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\Ignacio\Desktop\TP_CINE\lts\TP_CINEV13\TP_CINEV12\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Ignacio\Desktop\TP_CINE\lts\TP_CINEV13\TP_CINEV12\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\Ignacio\Desktop\TP_CINE\lts\TP_CINEV13\TP_CINEV12\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\Ignacio\Desktop\TP_CINE\lts\TP_CINEV13\TP_CINEV12\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Ignacio\Desktop\TP_CINE\lts\TP_CINEV13\TP_CINEV12\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Ignacio\Desktop\TP_CINE\lts\TP_CINEV13\TP_CINEV12\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\TPI_Backend.dll
+C:\Users\Ignacio\Desktop\TP_CINE\lts\TP_CINEV13\TP_CINEV12\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\TPI_Backend.pdb
+C:\Users\Ignacio\Desktop\TP_CINE\lts\TP_CINEV13\TP_CINEV12\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\TPI_Cine_API.csproj.AssemblyReference.cache
+C:\Users\Ignacio\Desktop\TP_CINE\lts\TP_CINEV13\TP_CINEV12\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\TPI_Cine_API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ignacio\Desktop\TP_CINE\lts\TP_CINEV13\TP_CINEV12\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\TPI_Cine_API.AssemblyInfoInputs.cache
+C:\Users\Ignacio\Desktop\TP_CINE\lts\TP_CINEV13\TP_CINEV12\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\TPI_Cine_API.AssemblyInfo.cs
+C:\Users\Ignacio\Desktop\TP_CINE\lts\TP_CINEV13\TP_CINEV12\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\TPI_Cine_API.csproj.CoreCompileInputs.cache
+C:\Users\Ignacio\Desktop\TP_CINE\lts\TP_CINEV13\TP_CINEV12\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\TPI_Cine_API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Ignacio\Desktop\TP_CINE\lts\TP_CINEV13\TP_CINEV12\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\TPI_Cine_API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Ignacio\Desktop\TP_CINE\lts\TP_CINEV13\TP_CINEV12\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\staticwebassets\msbuild.TPI_Cine_API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Ignacio\Desktop\TP_CINE\lts\TP_CINEV13\TP_CINEV12\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\staticwebassets\msbuild.build.TPI_Cine_API.props
+C:\Users\Ignacio\Desktop\TP_CINE\lts\TP_CINEV13\TP_CINEV12\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.TPI_Cine_API.props
+C:\Users\Ignacio\Desktop\TP_CINE\lts\TP_CINEV13\TP_CINEV12\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.TPI_Cine_API.props
+C:\Users\Ignacio\Desktop\TP_CINE\lts\TP_CINEV13\TP_CINEV12\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Ignacio\Desktop\TP_CINE\lts\TP_CINEV13\TP_CINEV12\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Ignacio\Desktop\TP_CINE\lts\TP_CINEV13\TP_CINEV12\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Ignacio\Desktop\TP_CINE\lts\TP_CINEV13\TP_CINEV12\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\scopedcss\bundle\TPI_Cine_API.styles.css
+C:\Users\Ignacio\Desktop\TP_CINE\lts\TP_CINEV13\TP_CINEV12\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\TPI_Cine_API.csproj.CopyComplete
+C:\Users\Ignacio\Desktop\TP_CINE\lts\TP_CINEV13\TP_CINEV12\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\TPI_Cine_API.dll
+C:\Users\Ignacio\Desktop\TP_CINE\lts\TP_CINEV13\TP_CINEV12\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\refint\TPI_Cine_API.dll
+C:\Users\Ignacio\Desktop\TP_CINE\lts\TP_CINEV13\TP_CINEV12\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\TPI_Cine_API.pdb
+C:\Users\Ignacio\Desktop\TP_CINE\lts\TP_CINEV13\TP_CINEV12\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\TPI_Cine_API.genruntimeconfig.cache
+C:\Users\Ignacio\Desktop\TP_CINE\lts\TP_CINEV13\TP_CINEV12\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\ref\TPI_Cine_API.dll
+C:\Users\rafif\Desktop\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\rafif\Desktop\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\appsettings.json
+C:\Users\rafif\Desktop\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\TPI_Cine_API.exe
+C:\Users\rafif\Desktop\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\TPI_Cine_API.deps.json
+C:\Users\rafif\Desktop\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\TPI_Cine_API.runtimeconfig.json
+C:\Users\rafif\Desktop\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\TPI_Cine_API.dll
+C:\Users\rafif\Desktop\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\TPI_Cine_API.pdb
+C:\Users\rafif\Desktop\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\rafif\Desktop\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\rafif\Desktop\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\rafif\Desktop\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\rafif\Desktop\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\rafif\Desktop\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\rafif\Desktop\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\rafif\Desktop\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\rafif\Desktop\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\rafif\Desktop\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\rafif\Desktop\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\TPI_Backend.dll
+C:\Users\rafif\Desktop\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\TPI_Backend.pdb
+C:\Users\rafif\Desktop\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\TPI_Cine_API.csproj.AssemblyReference.cache
+C:\Users\rafif\Desktop\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\TPI_Cine_API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafif\Desktop\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\TPI_Cine_API.AssemblyInfoInputs.cache
+C:\Users\rafif\Desktop\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\TPI_Cine_API.AssemblyInfo.cs
+C:\Users\rafif\Desktop\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\TPI_Cine_API.csproj.CoreCompileInputs.cache
+C:\Users\rafif\Desktop\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\TPI_Cine_API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\rafif\Desktop\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\TPI_Cine_API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\rafif\Desktop\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\staticwebassets\msbuild.TPI_Cine_API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\rafif\Desktop\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\staticwebassets\msbuild.build.TPI_Cine_API.props
+C:\Users\rafif\Desktop\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.TPI_Cine_API.props
+C:\Users\rafif\Desktop\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.TPI_Cine_API.props
+C:\Users\rafif\Desktop\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\rafif\Desktop\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\rafif\Desktop\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\rafif\Desktop\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\scopedcss\bundle\TPI_Cine_API.styles.css
+C:\Users\rafif\Desktop\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\TPI_Cine_API.csproj.CopyComplete
+C:\Users\rafif\Desktop\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\TPI_Cine_API.dll
+C:\Users\rafif\Desktop\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\refint\TPI_Cine_API.dll
+C:\Users\rafif\Desktop\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\TPI_Cine_API.pdb
+C:\Users\rafif\Desktop\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\TPI_Cine_API.genruntimeconfig.cache
+C:\Users\rafif\Desktop\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\ref\TPI_Cine_API.dll
+C:\Users\Santino\Desktop\ProyectoCINE\TP_CINEV17\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Santino\Desktop\ProyectoCINE\TP_CINEV17\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\appsettings.json
+C:\Users\Santino\Desktop\ProyectoCINE\TP_CINEV17\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\TPI_Cine_API.exe
+C:\Users\Santino\Desktop\ProyectoCINE\TP_CINEV17\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\TPI_Cine_API.deps.json
+C:\Users\Santino\Desktop\ProyectoCINE\TP_CINEV17\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\TPI_Cine_API.runtimeconfig.json
+C:\Users\Santino\Desktop\ProyectoCINE\TP_CINEV17\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\TPI_Cine_API.dll
+C:\Users\Santino\Desktop\ProyectoCINE\TP_CINEV17\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\TPI_Cine_API.pdb
+C:\Users\Santino\Desktop\ProyectoCINE\TP_CINEV17\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Santino\Desktop\ProyectoCINE\TP_CINEV17\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Santino\Desktop\ProyectoCINE\TP_CINEV17\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Santino\Desktop\ProyectoCINE\TP_CINEV17\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Santino\Desktop\ProyectoCINE\TP_CINEV17\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\Santino\Desktop\ProyectoCINE\TP_CINEV17\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Santino\Desktop\ProyectoCINE\TP_CINEV17\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\Santino\Desktop\ProyectoCINE\TP_CINEV17\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\Santino\Desktop\ProyectoCINE\TP_CINEV17\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Santino\Desktop\ProyectoCINE\TP_CINEV17\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Santino\Desktop\ProyectoCINE\TP_CINEV17\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\TPI_Backend.dll
+C:\Users\Santino\Desktop\ProyectoCINE\TP_CINEV17\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\TPI_Backend.pdb
+C:\Users\Santino\Desktop\ProyectoCINE\TP_CINEV17\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\TPI_Cine_API.csproj.AssemblyReference.cache
+C:\Users\Santino\Desktop\ProyectoCINE\TP_CINEV17\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\TPI_Cine_API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Santino\Desktop\ProyectoCINE\TP_CINEV17\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\TPI_Cine_API.AssemblyInfoInputs.cache
+C:\Users\Santino\Desktop\ProyectoCINE\TP_CINEV17\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\TPI_Cine_API.AssemblyInfo.cs
+C:\Users\Santino\Desktop\ProyectoCINE\TP_CINEV17\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\TPI_Cine_API.csproj.CoreCompileInputs.cache
+C:\Users\Santino\Desktop\ProyectoCINE\TP_CINEV17\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\TPI_Cine_API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Santino\Desktop\ProyectoCINE\TP_CINEV17\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\TPI_Cine_API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Santino\Desktop\ProyectoCINE\TP_CINEV17\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\staticwebassets\msbuild.TPI_Cine_API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Santino\Desktop\ProyectoCINE\TP_CINEV17\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\staticwebassets\msbuild.build.TPI_Cine_API.props
+C:\Users\Santino\Desktop\ProyectoCINE\TP_CINEV17\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.TPI_Cine_API.props
+C:\Users\Santino\Desktop\ProyectoCINE\TP_CINEV17\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.TPI_Cine_API.props
+C:\Users\Santino\Desktop\ProyectoCINE\TP_CINEV17\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Santino\Desktop\ProyectoCINE\TP_CINEV17\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Santino\Desktop\ProyectoCINE\TP_CINEV17\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Santino\Desktop\ProyectoCINE\TP_CINEV17\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\scopedcss\bundle\TPI_Cine_API.styles.css
+C:\Users\Santino\Desktop\ProyectoCINE\TP_CINEV17\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\TPI_Cine_API.csproj.CopyComplete
+C:\Users\Santino\Desktop\ProyectoCINE\TP_CINEV17\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\TPI_Cine_API.dll
+C:\Users\Santino\Desktop\ProyectoCINE\TP_CINEV17\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\refint\TPI_Cine_API.dll
+C:\Users\Santino\Desktop\ProyectoCINE\TP_CINEV17\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\TPI_Cine_API.pdb
+C:\Users\Santino\Desktop\ProyectoCINE\TP_CINEV17\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\TPI_Cine_API.genruntimeconfig.cache
+C:\Users\Santino\Desktop\ProyectoCINE\TP_CINEV17\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\ref\TPI_Cine_API.dll
+C:\Users\David\Desktop\Trabajo de programacion + repo\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\David\Desktop\Trabajo de programacion + repo\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\appsettings.json
+C:\Users\David\Desktop\Trabajo de programacion + repo\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\TPI_Cine_API.exe
+C:\Users\David\Desktop\Trabajo de programacion + repo\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\TPI_Cine_API.deps.json
+C:\Users\David\Desktop\Trabajo de programacion + repo\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\TPI_Cine_API.runtimeconfig.json
+C:\Users\David\Desktop\Trabajo de programacion + repo\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\TPI_Cine_API.dll
+C:\Users\David\Desktop\Trabajo de programacion + repo\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\TPI_Cine_API.pdb
+C:\Users\David\Desktop\Trabajo de programacion + repo\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\David\Desktop\Trabajo de programacion + repo\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\David\Desktop\Trabajo de programacion + repo\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\David\Desktop\Trabajo de programacion + repo\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\David\Desktop\Trabajo de programacion + repo\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\David\Desktop\Trabajo de programacion + repo\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\David\Desktop\Trabajo de programacion + repo\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\David\Desktop\Trabajo de programacion + repo\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\David\Desktop\Trabajo de programacion + repo\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\David\Desktop\Trabajo de programacion + repo\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\David\Desktop\Trabajo de programacion + repo\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\TPI_Backend.dll
+C:\Users\David\Desktop\Trabajo de programacion + repo\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\TPI_Backend.pdb
+C:\Users\David\Desktop\Trabajo de programacion + repo\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\TPI_Cine_API.csproj.AssemblyReference.cache
+C:\Users\David\Desktop\Trabajo de programacion + repo\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\TPI_Cine_API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\David\Desktop\Trabajo de programacion + repo\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\TPI_Cine_API.AssemblyInfoInputs.cache
+C:\Users\David\Desktop\Trabajo de programacion + repo\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\TPI_Cine_API.AssemblyInfo.cs
+C:\Users\David\Desktop\Trabajo de programacion + repo\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\TPI_Cine_API.csproj.CoreCompileInputs.cache
+C:\Users\David\Desktop\Trabajo de programacion + repo\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\TPI_Cine_API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\David\Desktop\Trabajo de programacion + repo\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\TPI_Cine_API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\David\Desktop\Trabajo de programacion + repo\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\staticwebassets\msbuild.TPI_Cine_API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\David\Desktop\Trabajo de programacion + repo\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\staticwebassets\msbuild.build.TPI_Cine_API.props
+C:\Users\David\Desktop\Trabajo de programacion + repo\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.TPI_Cine_API.props
+C:\Users\David\Desktop\Trabajo de programacion + repo\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.TPI_Cine_API.props
+C:\Users\David\Desktop\Trabajo de programacion + repo\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\David\Desktop\Trabajo de programacion + repo\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\David\Desktop\Trabajo de programacion + repo\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\David\Desktop\Trabajo de programacion + repo\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\scopedcss\bundle\TPI_Cine_API.styles.css
+C:\Users\David\Desktop\Trabajo de programacion + repo\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\TPI_Cine_API.csproj.CopyComplete
+C:\Users\David\Desktop\Trabajo de programacion + repo\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\TPI_Cine_API.dll
+C:\Users\David\Desktop\Trabajo de programacion + repo\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\refint\TPI_Cine_API.dll
+C:\Users\David\Desktop\Trabajo de programacion + repo\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\TPI_Cine_API.pdb
+C:\Users\David\Desktop\Trabajo de programacion + repo\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\TPI_Cine_API.genruntimeconfig.cache
+C:\Users\David\Desktop\Trabajo de programacion + repo\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\ref\TPI_Cine_API.dll
+C:\Users\Santino\Desktop\ProyectoCINE\TP_CINEV21\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Santino\Desktop\ProyectoCINE\TP_CINEV21\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\appsettings.json
+C:\Users\Santino\Desktop\ProyectoCINE\TP_CINEV21\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\TPI_Cine_API.exe
+C:\Users\Santino\Desktop\ProyectoCINE\TP_CINEV21\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\TPI_Cine_API.deps.json
+C:\Users\Santino\Desktop\ProyectoCINE\TP_CINEV21\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\TPI_Cine_API.runtimeconfig.json
+C:\Users\Santino\Desktop\ProyectoCINE\TP_CINEV21\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\TPI_Cine_API.dll
+C:\Users\Santino\Desktop\ProyectoCINE\TP_CINEV21\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\TPI_Cine_API.pdb
+C:\Users\Santino\Desktop\ProyectoCINE\TP_CINEV21\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Santino\Desktop\ProyectoCINE\TP_CINEV21\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Santino\Desktop\ProyectoCINE\TP_CINEV21\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Santino\Desktop\ProyectoCINE\TP_CINEV21\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Santino\Desktop\ProyectoCINE\TP_CINEV21\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\Santino\Desktop\ProyectoCINE\TP_CINEV21\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Santino\Desktop\ProyectoCINE\TP_CINEV21\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\Santino\Desktop\ProyectoCINE\TP_CINEV21\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\Santino\Desktop\ProyectoCINE\TP_CINEV21\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Santino\Desktop\ProyectoCINE\TP_CINEV21\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Santino\Desktop\ProyectoCINE\TP_CINEV21\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\TPI_Backend.dll
+C:\Users\Santino\Desktop\ProyectoCINE\TP_CINEV21\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\TPI_Backend.pdb
+C:\Users\Santino\Desktop\ProyectoCINE\TP_CINEV21\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\TPI_Cine_API.csproj.AssemblyReference.cache
+C:\Users\Santino\Desktop\ProyectoCINE\TP_CINEV21\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\TPI_Cine_API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Santino\Desktop\ProyectoCINE\TP_CINEV21\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\TPI_Cine_API.AssemblyInfoInputs.cache
+C:\Users\Santino\Desktop\ProyectoCINE\TP_CINEV21\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\TPI_Cine_API.AssemblyInfo.cs
+C:\Users\Santino\Desktop\ProyectoCINE\TP_CINEV21\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\TPI_Cine_API.csproj.CoreCompileInputs.cache
+C:\Users\Santino\Desktop\ProyectoCINE\TP_CINEV21\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\TPI_Cine_API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Santino\Desktop\ProyectoCINE\TP_CINEV21\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\TPI_Cine_API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Santino\Desktop\ProyectoCINE\TP_CINEV21\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\staticwebassets\msbuild.TPI_Cine_API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Santino\Desktop\ProyectoCINE\TP_CINEV21\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\staticwebassets\msbuild.build.TPI_Cine_API.props
+C:\Users\Santino\Desktop\ProyectoCINE\TP_CINEV21\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.TPI_Cine_API.props
+C:\Users\Santino\Desktop\ProyectoCINE\TP_CINEV21\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.TPI_Cine_API.props
+C:\Users\Santino\Desktop\ProyectoCINE\TP_CINEV21\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Santino\Desktop\ProyectoCINE\TP_CINEV21\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Santino\Desktop\ProyectoCINE\TP_CINEV21\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Santino\Desktop\ProyectoCINE\TP_CINEV21\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\scopedcss\bundle\TPI_Cine_API.styles.css
+C:\Users\Santino\Desktop\ProyectoCINE\TP_CINEV21\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\TPI_Cine_API.csproj.CopyComplete
+C:\Users\Santino\Desktop\ProyectoCINE\TP_CINEV21\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\TPI_Cine_API.dll
+C:\Users\Santino\Desktop\ProyectoCINE\TP_CINEV21\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\refint\TPI_Cine_API.dll
+C:\Users\Santino\Desktop\ProyectoCINE\TP_CINEV21\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\TPI_Cine_API.pdb
+C:\Users\Santino\Desktop\ProyectoCINE\TP_CINEV21\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\TPI_Cine_API.genruntimeconfig.cache
+C:\Users\Santino\Desktop\ProyectoCINE\TP_CINEV21\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\ref\TPI_Cine_API.dll
+C:\Users\Juan\Desktop\FACULTAD\Programacion\Programación 2\ProyectoCineUltimo\TP_CINEV22\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Juan\Desktop\FACULTAD\Programacion\Programación 2\ProyectoCineUltimo\TP_CINEV22\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\appsettings.json
+C:\Users\Juan\Desktop\FACULTAD\Programacion\Programación 2\ProyectoCineUltimo\TP_CINEV22\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\TPI_Cine_API.exe
+C:\Users\Juan\Desktop\FACULTAD\Programacion\Programación 2\ProyectoCineUltimo\TP_CINEV22\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\TPI_Cine_API.deps.json
+C:\Users\Juan\Desktop\FACULTAD\Programacion\Programación 2\ProyectoCineUltimo\TP_CINEV22\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\TPI_Cine_API.runtimeconfig.json
+C:\Users\Juan\Desktop\FACULTAD\Programacion\Programación 2\ProyectoCineUltimo\TP_CINEV22\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\TPI_Cine_API.dll
+C:\Users\Juan\Desktop\FACULTAD\Programacion\Programación 2\ProyectoCineUltimo\TP_CINEV22\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\TPI_Cine_API.pdb
+C:\Users\Juan\Desktop\FACULTAD\Programacion\Programación 2\ProyectoCineUltimo\TP_CINEV22\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Juan\Desktop\FACULTAD\Programacion\Programación 2\ProyectoCineUltimo\TP_CINEV22\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Juan\Desktop\FACULTAD\Programacion\Programación 2\ProyectoCineUltimo\TP_CINEV22\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Juan\Desktop\FACULTAD\Programacion\Programación 2\ProyectoCineUltimo\TP_CINEV22\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Juan\Desktop\FACULTAD\Programacion\Programación 2\ProyectoCineUltimo\TP_CINEV22\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\Juan\Desktop\FACULTAD\Programacion\Programación 2\ProyectoCineUltimo\TP_CINEV22\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Juan\Desktop\FACULTAD\Programacion\Programación 2\ProyectoCineUltimo\TP_CINEV22\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\Juan\Desktop\FACULTAD\Programacion\Programación 2\ProyectoCineUltimo\TP_CINEV22\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\Juan\Desktop\FACULTAD\Programacion\Programación 2\ProyectoCineUltimo\TP_CINEV22\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Juan\Desktop\FACULTAD\Programacion\Programación 2\ProyectoCineUltimo\TP_CINEV22\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Juan\Desktop\FACULTAD\Programacion\Programación 2\ProyectoCineUltimo\TP_CINEV22\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\TPI_Backend.dll
+C:\Users\Juan\Desktop\FACULTAD\Programacion\Programación 2\ProyectoCineUltimo\TP_CINEV22\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\TPI_Backend.pdb
+C:\Users\Juan\Desktop\FACULTAD\Programacion\Programación 2\ProyectoCineUltimo\TP_CINEV22\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\TPI_Cine_API.csproj.AssemblyReference.cache
+C:\Users\Juan\Desktop\FACULTAD\Programacion\Programación 2\ProyectoCineUltimo\TP_CINEV22\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\TPI_Cine_API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juan\Desktop\FACULTAD\Programacion\Programación 2\ProyectoCineUltimo\TP_CINEV22\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\TPI_Cine_API.AssemblyInfoInputs.cache
+C:\Users\Juan\Desktop\FACULTAD\Programacion\Programación 2\ProyectoCineUltimo\TP_CINEV22\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\TPI_Cine_API.AssemblyInfo.cs
+C:\Users\Juan\Desktop\FACULTAD\Programacion\Programación 2\ProyectoCineUltimo\TP_CINEV22\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\TPI_Cine_API.csproj.CoreCompileInputs.cache
+C:\Users\Juan\Desktop\FACULTAD\Programacion\Programación 2\ProyectoCineUltimo\TP_CINEV22\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\TPI_Cine_API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Juan\Desktop\FACULTAD\Programacion\Programación 2\ProyectoCineUltimo\TP_CINEV22\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\TPI_Cine_API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Juan\Desktop\FACULTAD\Programacion\Programación 2\ProyectoCineUltimo\TP_CINEV22\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\TPI_Cine_API.sourcelink.json
+C:\Users\Juan\Desktop\FACULTAD\Programacion\Programación 2\ProyectoCineUltimo\TP_CINEV22\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Juan\Desktop\FACULTAD\Programacion\Programación 2\ProyectoCineUltimo\TP_CINEV22\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Juan\Desktop\FACULTAD\Programacion\Programación 2\ProyectoCineUltimo\TP_CINEV22\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\staticwebassets\msbuild.TPI_Cine_API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Juan\Desktop\FACULTAD\Programacion\Programación 2\ProyectoCineUltimo\TP_CINEV22\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\staticwebassets\msbuild.build.TPI_Cine_API.props
+C:\Users\Juan\Desktop\FACULTAD\Programacion\Programación 2\ProyectoCineUltimo\TP_CINEV22\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.TPI_Cine_API.props
+C:\Users\Juan\Desktop\FACULTAD\Programacion\Programación 2\ProyectoCineUltimo\TP_CINEV22\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.TPI_Cine_API.props
+C:\Users\Juan\Desktop\FACULTAD\Programacion\Programación 2\ProyectoCineUltimo\TP_CINEV22\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Juan\Desktop\FACULTAD\Programacion\Programación 2\ProyectoCineUltimo\TP_CINEV22\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\scopedcss\bundle\TPI_Cine_API.styles.css
+C:\Users\Juan\Desktop\FACULTAD\Programacion\Programación 2\ProyectoCineUltimo\TP_CINEV22\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\TPI_Cine_API.csproj.CopyComplete
+C:\Users\Juan\Desktop\FACULTAD\Programacion\Programación 2\ProyectoCineUltimo\TP_CINEV22\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\TPI_Cine_API.dll
+C:\Users\Juan\Desktop\FACULTAD\Programacion\Programación 2\ProyectoCineUltimo\TP_CINEV22\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\refint\TPI_Cine_API.dll
+C:\Users\Juan\Desktop\FACULTAD\Programacion\Programación 2\ProyectoCineUltimo\TP_CINEV22\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\TPI_Cine_API.pdb
+C:\Users\Juan\Desktop\FACULTAD\Programacion\Programación 2\ProyectoCineUltimo\TP_CINEV22\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\TPI_Cine_API.genruntimeconfig.cache
+C:\Users\Juan\Desktop\FACULTAD\Programacion\Programación 2\ProyectoCineUltimo\TP_CINEV22\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\ref\TPI_Cine_API.dll
+C:\Users\Juan\Desktop\FACULTAD\Programacion\Programación 2\ProyectoCine\TP_CINEV22\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Juan\Desktop\FACULTAD\Programacion\Programación 2\ProyectoCine\TP_CINEV22\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\appsettings.json
+C:\Users\Juan\Desktop\FACULTAD\Programacion\Programación 2\ProyectoCine\TP_CINEV22\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\TPI_Cine_API.exe
+C:\Users\Juan\Desktop\FACULTAD\Programacion\Programación 2\ProyectoCine\TP_CINEV22\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\TPI_Cine_API.deps.json
+C:\Users\Juan\Desktop\FACULTAD\Programacion\Programación 2\ProyectoCine\TP_CINEV22\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\TPI_Cine_API.runtimeconfig.json
+C:\Users\Juan\Desktop\FACULTAD\Programacion\Programación 2\ProyectoCine\TP_CINEV22\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\TPI_Cine_API.dll
+C:\Users\Juan\Desktop\FACULTAD\Programacion\Programación 2\ProyectoCine\TP_CINEV22\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\TPI_Cine_API.pdb
+C:\Users\Juan\Desktop\FACULTAD\Programacion\Programación 2\ProyectoCine\TP_CINEV22\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Juan\Desktop\FACULTAD\Programacion\Programación 2\ProyectoCine\TP_CINEV22\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Juan\Desktop\FACULTAD\Programacion\Programación 2\ProyectoCine\TP_CINEV22\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Juan\Desktop\FACULTAD\Programacion\Programación 2\ProyectoCine\TP_CINEV22\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Juan\Desktop\FACULTAD\Programacion\Programación 2\ProyectoCine\TP_CINEV22\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\Juan\Desktop\FACULTAD\Programacion\Programación 2\ProyectoCine\TP_CINEV22\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Juan\Desktop\FACULTAD\Programacion\Programación 2\ProyectoCine\TP_CINEV22\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\Juan\Desktop\FACULTAD\Programacion\Programación 2\ProyectoCine\TP_CINEV22\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\Juan\Desktop\FACULTAD\Programacion\Programación 2\ProyectoCine\TP_CINEV22\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Juan\Desktop\FACULTAD\Programacion\Programación 2\ProyectoCine\TP_CINEV22\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Juan\Desktop\FACULTAD\Programacion\Programación 2\ProyectoCine\TP_CINEV22\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\TPI_Backend.dll
+C:\Users\Juan\Desktop\FACULTAD\Programacion\Programación 2\ProyectoCine\TP_CINEV22\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\TPI_Backend.pdb
+C:\Users\Juan\Desktop\FACULTAD\Programacion\Programación 2\ProyectoCine\TP_CINEV22\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\TPI_Cine_API.csproj.AssemblyReference.cache
+C:\Users\Juan\Desktop\FACULTAD\Programacion\Programación 2\ProyectoCine\TP_CINEV22\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\TPI_Cine_API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juan\Desktop\FACULTAD\Programacion\Programación 2\ProyectoCine\TP_CINEV22\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\TPI_Cine_API.AssemblyInfoInputs.cache
+C:\Users\Juan\Desktop\FACULTAD\Programacion\Programación 2\ProyectoCine\TP_CINEV22\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\TPI_Cine_API.AssemblyInfo.cs
+C:\Users\Juan\Desktop\FACULTAD\Programacion\Programación 2\ProyectoCine\TP_CINEV22\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\TPI_Cine_API.csproj.CoreCompileInputs.cache
+C:\Users\Juan\Desktop\FACULTAD\Programacion\Programación 2\ProyectoCine\TP_CINEV22\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\TPI_Cine_API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Juan\Desktop\FACULTAD\Programacion\Programación 2\ProyectoCine\TP_CINEV22\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\TPI_Cine_API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Juan\Desktop\FACULTAD\Programacion\Programación 2\ProyectoCine\TP_CINEV22\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\TPI_Cine_API.sourcelink.json
+C:\Users\Juan\Desktop\FACULTAD\Programacion\Programación 2\ProyectoCine\TP_CINEV22\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Juan\Desktop\FACULTAD\Programacion\Programación 2\ProyectoCine\TP_CINEV22\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Juan\Desktop\FACULTAD\Programacion\Programación 2\ProyectoCine\TP_CINEV22\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\staticwebassets\msbuild.TPI_Cine_API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Juan\Desktop\FACULTAD\Programacion\Programación 2\ProyectoCine\TP_CINEV22\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\staticwebassets\msbuild.build.TPI_Cine_API.props
+C:\Users\Juan\Desktop\FACULTAD\Programacion\Programación 2\ProyectoCine\TP_CINEV22\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.TPI_Cine_API.props
+C:\Users\Juan\Desktop\FACULTAD\Programacion\Programación 2\ProyectoCine\TP_CINEV22\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.TPI_Cine_API.props
+C:\Users\Juan\Desktop\FACULTAD\Programacion\Programación 2\ProyectoCine\TP_CINEV22\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Juan\Desktop\FACULTAD\Programacion\Programación 2\ProyectoCine\TP_CINEV22\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\scopedcss\bundle\TPI_Cine_API.styles.css
+C:\Users\Juan\Desktop\FACULTAD\Programacion\Programación 2\ProyectoCine\TP_CINEV22\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\TPI_Cine_API.csproj.CopyComplete
+C:\Users\Juan\Desktop\FACULTAD\Programacion\Programación 2\ProyectoCine\TP_CINEV22\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\TPI_Cine_API.dll
+C:\Users\Juan\Desktop\FACULTAD\Programacion\Programación 2\ProyectoCine\TP_CINEV22\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\refint\TPI_Cine_API.dll
+C:\Users\Juan\Desktop\FACULTAD\Programacion\Programación 2\ProyectoCine\TP_CINEV22\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\TPI_Cine_API.pdb
+C:\Users\Juan\Desktop\FACULTAD\Programacion\Programación 2\ProyectoCine\TP_CINEV22\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\TPI_Cine_API.genruntimeconfig.cache
+C:\Users\Juan\Desktop\FACULTAD\Programacion\Programación 2\ProyectoCine\TP_CINEV22\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\ref\TPI_Cine_API.dll
+C:\Users\Juan\Desktop\FACULTAD\Programacion\Programación 2\ProyectoCine\TP_CINEV23\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Juan\Desktop\FACULTAD\Programacion\Programación 2\ProyectoCine\TP_CINEV23\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\appsettings.json
+C:\Users\Juan\Desktop\FACULTAD\Programacion\Programación 2\ProyectoCine\TP_CINEV23\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\TPI_Cine_API.exe
+C:\Users\Juan\Desktop\FACULTAD\Programacion\Programación 2\ProyectoCine\TP_CINEV23\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\TPI_Cine_API.deps.json
+C:\Users\Juan\Desktop\FACULTAD\Programacion\Programación 2\ProyectoCine\TP_CINEV23\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\TPI_Cine_API.runtimeconfig.json
+C:\Users\Juan\Desktop\FACULTAD\Programacion\Programación 2\ProyectoCine\TP_CINEV23\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\TPI_Cine_API.dll
+C:\Users\Juan\Desktop\FACULTAD\Programacion\Programación 2\ProyectoCine\TP_CINEV23\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\TPI_Cine_API.pdb
+C:\Users\Juan\Desktop\FACULTAD\Programacion\Programación 2\ProyectoCine\TP_CINEV23\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Juan\Desktop\FACULTAD\Programacion\Programación 2\ProyectoCine\TP_CINEV23\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Juan\Desktop\FACULTAD\Programacion\Programación 2\ProyectoCine\TP_CINEV23\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Juan\Desktop\FACULTAD\Programacion\Programación 2\ProyectoCine\TP_CINEV23\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Juan\Desktop\FACULTAD\Programacion\Programación 2\ProyectoCine\TP_CINEV23\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\Juan\Desktop\FACULTAD\Programacion\Programación 2\ProyectoCine\TP_CINEV23\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Juan\Desktop\FACULTAD\Programacion\Programación 2\ProyectoCine\TP_CINEV23\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\Juan\Desktop\FACULTAD\Programacion\Programación 2\ProyectoCine\TP_CINEV23\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\Juan\Desktop\FACULTAD\Programacion\Programación 2\ProyectoCine\TP_CINEV23\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Juan\Desktop\FACULTAD\Programacion\Programación 2\ProyectoCine\TP_CINEV23\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Juan\Desktop\FACULTAD\Programacion\Programación 2\ProyectoCine\TP_CINEV23\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\TPI_Backend.dll
+C:\Users\Juan\Desktop\FACULTAD\Programacion\Programación 2\ProyectoCine\TP_CINEV23\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\TPI_Backend.pdb
+C:\Users\Juan\Desktop\FACULTAD\Programacion\Programación 2\ProyectoCine\TP_CINEV23\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\TPI_Cine_API.csproj.AssemblyReference.cache
+C:\Users\Juan\Desktop\FACULTAD\Programacion\Programación 2\ProyectoCine\TP_CINEV23\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\TPI_Cine_API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juan\Desktop\FACULTAD\Programacion\Programación 2\ProyectoCine\TP_CINEV23\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\TPI_Cine_API.AssemblyInfoInputs.cache
+C:\Users\Juan\Desktop\FACULTAD\Programacion\Programación 2\ProyectoCine\TP_CINEV23\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\TPI_Cine_API.AssemblyInfo.cs
+C:\Users\Juan\Desktop\FACULTAD\Programacion\Programación 2\ProyectoCine\TP_CINEV23\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\TPI_Cine_API.csproj.CoreCompileInputs.cache
+C:\Users\Juan\Desktop\FACULTAD\Programacion\Programación 2\ProyectoCine\TP_CINEV23\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\TPI_Cine_API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Juan\Desktop\FACULTAD\Programacion\Programación 2\ProyectoCine\TP_CINEV23\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\TPI_Cine_API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Juan\Desktop\FACULTAD\Programacion\Programación 2\ProyectoCine\TP_CINEV23\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\TPI_Cine_API.sourcelink.json
+C:\Users\Juan\Desktop\FACULTAD\Programacion\Programación 2\ProyectoCine\TP_CINEV23\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Juan\Desktop\FACULTAD\Programacion\Programación 2\ProyectoCine\TP_CINEV23\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Juan\Desktop\FACULTAD\Programacion\Programación 2\ProyectoCine\TP_CINEV23\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\staticwebassets\msbuild.TPI_Cine_API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Juan\Desktop\FACULTAD\Programacion\Programación 2\ProyectoCine\TP_CINEV23\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\staticwebassets\msbuild.build.TPI_Cine_API.props
+C:\Users\Juan\Desktop\FACULTAD\Programacion\Programación 2\ProyectoCine\TP_CINEV23\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.TPI_Cine_API.props
+C:\Users\Juan\Desktop\FACULTAD\Programacion\Programación 2\ProyectoCine\TP_CINEV23\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.TPI_Cine_API.props
+C:\Users\Juan\Desktop\FACULTAD\Programacion\Programación 2\ProyectoCine\TP_CINEV23\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Juan\Desktop\FACULTAD\Programacion\Programación 2\ProyectoCine\TP_CINEV23\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\scopedcss\bundle\TPI_Cine_API.styles.css
+C:\Users\Juan\Desktop\FACULTAD\Programacion\Programación 2\ProyectoCine\TP_CINEV23\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\TPI_Cine_API.csproj.CopyComplete
+C:\Users\Juan\Desktop\FACULTAD\Programacion\Programación 2\ProyectoCine\TP_CINEV23\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\TPI_Cine_API.dll
+C:\Users\Juan\Desktop\FACULTAD\Programacion\Programación 2\ProyectoCine\TP_CINEV23\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\refint\TPI_Cine_API.dll
+C:\Users\Juan\Desktop\FACULTAD\Programacion\Programación 2\ProyectoCine\TP_CINEV23\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\TPI_Cine_API.pdb
+C:\Users\Juan\Desktop\FACULTAD\Programacion\Programación 2\ProyectoCine\TP_CINEV23\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\TPI_Cine_API.genruntimeconfig.cache
+C:\Users\Juan\Desktop\FACULTAD\Programacion\Programación 2\ProyectoCine\TP_CINEV23\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\ref\TPI_Cine_API.dll
+C:\Users\Ignacio\Desktop\TP_CINE\lts\TP_CINEV23\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Ignacio\Desktop\TP_CINE\lts\TP_CINEV23\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\appsettings.json
+C:\Users\Ignacio\Desktop\TP_CINE\lts\TP_CINEV23\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\TPI_Cine_API.exe
+C:\Users\Ignacio\Desktop\TP_CINE\lts\TP_CINEV23\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\TPI_Cine_API.deps.json
+C:\Users\Ignacio\Desktop\TP_CINE\lts\TP_CINEV23\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\TPI_Cine_API.runtimeconfig.json
+C:\Users\Ignacio\Desktop\TP_CINE\lts\TP_CINEV23\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\TPI_Cine_API.dll
+C:\Users\Ignacio\Desktop\TP_CINE\lts\TP_CINEV23\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\TPI_Cine_API.pdb
+C:\Users\Ignacio\Desktop\TP_CINE\lts\TP_CINEV23\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Ignacio\Desktop\TP_CINE\lts\TP_CINEV23\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Ignacio\Desktop\TP_CINE\lts\TP_CINEV23\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Ignacio\Desktop\TP_CINE\lts\TP_CINEV23\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Ignacio\Desktop\TP_CINE\lts\TP_CINEV23\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\Ignacio\Desktop\TP_CINE\lts\TP_CINEV23\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Ignacio\Desktop\TP_CINE\lts\TP_CINEV23\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\Ignacio\Desktop\TP_CINE\lts\TP_CINEV23\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\Ignacio\Desktop\TP_CINE\lts\TP_CINEV23\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Ignacio\Desktop\TP_CINE\lts\TP_CINEV23\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Ignacio\Desktop\TP_CINE\lts\TP_CINEV23\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\TPI_Backend.dll
+C:\Users\Ignacio\Desktop\TP_CINE\lts\TP_CINEV23\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\TPI_Backend.pdb
+C:\Users\Ignacio\Desktop\TP_CINE\lts\TP_CINEV23\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\TPI_Cine_API.csproj.AssemblyReference.cache
+C:\Users\Ignacio\Desktop\TP_CINE\lts\TP_CINEV23\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\TPI_Cine_API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ignacio\Desktop\TP_CINE\lts\TP_CINEV23\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\TPI_Cine_API.AssemblyInfoInputs.cache
+C:\Users\Ignacio\Desktop\TP_CINE\lts\TP_CINEV23\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\TPI_Cine_API.AssemblyInfo.cs
+C:\Users\Ignacio\Desktop\TP_CINE\lts\TP_CINEV23\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\TPI_Cine_API.csproj.CoreCompileInputs.cache
+C:\Users\Ignacio\Desktop\TP_CINE\lts\TP_CINEV23\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\TPI_Cine_API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Ignacio\Desktop\TP_CINE\lts\TP_CINEV23\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\TPI_Cine_API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Ignacio\Desktop\TP_CINE\lts\TP_CINEV23\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\staticwebassets\msbuild.TPI_Cine_API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Ignacio\Desktop\TP_CINE\lts\TP_CINEV23\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\staticwebassets\msbuild.build.TPI_Cine_API.props
+C:\Users\Ignacio\Desktop\TP_CINE\lts\TP_CINEV23\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.TPI_Cine_API.props
+C:\Users\Ignacio\Desktop\TP_CINE\lts\TP_CINEV23\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.TPI_Cine_API.props
+C:\Users\Ignacio\Desktop\TP_CINE\lts\TP_CINEV23\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Ignacio\Desktop\TP_CINE\lts\TP_CINEV23\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Ignacio\Desktop\TP_CINE\lts\TP_CINEV23\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Ignacio\Desktop\TP_CINE\lts\TP_CINEV23\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\scopedcss\bundle\TPI_Cine_API.styles.css
+C:\Users\Ignacio\Desktop\TP_CINE\lts\TP_CINEV23\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\TPI_Cine_API.csproj.CopyComplete
+C:\Users\Ignacio\Desktop\TP_CINE\lts\TP_CINEV23\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\TPI_Cine_API.dll
+C:\Users\Ignacio\Desktop\TP_CINE\lts\TP_CINEV23\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\refint\TPI_Cine_API.dll
+C:\Users\Ignacio\Desktop\TP_CINE\lts\TP_CINEV23\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\TPI_Cine_API.pdb
+C:\Users\Ignacio\Desktop\TP_CINE\lts\TP_CINEV23\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\TPI_Cine_API.genruntimeconfig.cache
+C:\Users\Ignacio\Desktop\TP_CINE\lts\TP_CINEV23\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\ref\TPI_Cine_API.dll
+C:\Users\Ignacio\Desktop\TP_CINE\lts\TP_CINE\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Ignacio\Desktop\TP_CINE\lts\TP_CINE\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\appsettings.json
+C:\Users\Ignacio\Desktop\TP_CINE\lts\TP_CINE\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\TPI_Cine_API.exe
+C:\Users\Ignacio\Desktop\TP_CINE\lts\TP_CINE\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\TPI_Cine_API.deps.json
+C:\Users\Ignacio\Desktop\TP_CINE\lts\TP_CINE\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\TPI_Cine_API.runtimeconfig.json
+C:\Users\Ignacio\Desktop\TP_CINE\lts\TP_CINE\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\TPI_Cine_API.dll
+C:\Users\Ignacio\Desktop\TP_CINE\lts\TP_CINE\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\TPI_Cine_API.pdb
+C:\Users\Ignacio\Desktop\TP_CINE\lts\TP_CINE\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Ignacio\Desktop\TP_CINE\lts\TP_CINE\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Ignacio\Desktop\TP_CINE\lts\TP_CINE\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Ignacio\Desktop\TP_CINE\lts\TP_CINE\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Ignacio\Desktop\TP_CINE\lts\TP_CINE\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\Ignacio\Desktop\TP_CINE\lts\TP_CINE\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Ignacio\Desktop\TP_CINE\lts\TP_CINE\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\Ignacio\Desktop\TP_CINE\lts\TP_CINE\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\Ignacio\Desktop\TP_CINE\lts\TP_CINE\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Ignacio\Desktop\TP_CINE\lts\TP_CINE\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Ignacio\Desktop\TP_CINE\lts\TP_CINE\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\TPI_Backend.dll
+C:\Users\Ignacio\Desktop\TP_CINE\lts\TP_CINE\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\TPI_Backend.pdb
+C:\Users\Ignacio\Desktop\TP_CINE\lts\TP_CINE\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\TPI_Cine_API.csproj.AssemblyReference.cache
+C:\Users\Ignacio\Desktop\TP_CINE\lts\TP_CINE\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\TPI_Cine_API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ignacio\Desktop\TP_CINE\lts\TP_CINE\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\TPI_Cine_API.AssemblyInfoInputs.cache
+C:\Users\Ignacio\Desktop\TP_CINE\lts\TP_CINE\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\TPI_Cine_API.AssemblyInfo.cs
+C:\Users\Ignacio\Desktop\TP_CINE\lts\TP_CINE\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\TPI_Cine_API.csproj.CoreCompileInputs.cache
+C:\Users\Ignacio\Desktop\TP_CINE\lts\TP_CINE\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\TPI_Cine_API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Ignacio\Desktop\TP_CINE\lts\TP_CINE\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\TPI_Cine_API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Ignacio\Desktop\TP_CINE\lts\TP_CINE\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\staticwebassets\msbuild.TPI_Cine_API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Ignacio\Desktop\TP_CINE\lts\TP_CINE\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\staticwebassets\msbuild.build.TPI_Cine_API.props
+C:\Users\Ignacio\Desktop\TP_CINE\lts\TP_CINE\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.TPI_Cine_API.props
+C:\Users\Ignacio\Desktop\TP_CINE\lts\TP_CINE\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.TPI_Cine_API.props
+C:\Users\Ignacio\Desktop\TP_CINE\lts\TP_CINE\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Ignacio\Desktop\TP_CINE\lts\TP_CINE\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Ignacio\Desktop\TP_CINE\lts\TP_CINE\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Ignacio\Desktop\TP_CINE\lts\TP_CINE\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\scopedcss\bundle\TPI_Cine_API.styles.css
+C:\Users\Ignacio\Desktop\TP_CINE\lts\TP_CINE\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\TPI_Cine_API.csproj.CopyComplete
+C:\Users\Ignacio\Desktop\TP_CINE\lts\TP_CINE\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\TPI_Cine_API.dll
+C:\Users\Ignacio\Desktop\TP_CINE\lts\TP_CINE\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\refint\TPI_Cine_API.dll
+C:\Users\Ignacio\Desktop\TP_CINE\lts\TP_CINE\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\TPI_Cine_API.pdb
+C:\Users\Ignacio\Desktop\TP_CINE\lts\TP_CINE\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\TPI_Cine_API.genruntimeconfig.cache
+C:\Users\Ignacio\Desktop\TP_CINE\lts\TP_CINE\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\ref\TPI_Cine_API.dll
+C:\Users\Juan\Desktop\FACULTAD\Programacion\Programación 2\ProyectoCine\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Juan\Desktop\FACULTAD\Programacion\Programación 2\ProyectoCine\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\appsettings.json
+C:\Users\Juan\Desktop\FACULTAD\Programacion\Programación 2\ProyectoCine\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\TPI_Cine_API.exe
+C:\Users\Juan\Desktop\FACULTAD\Programacion\Programación 2\ProyectoCine\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\TPI_Cine_API.deps.json
+C:\Users\Juan\Desktop\FACULTAD\Programacion\Programación 2\ProyectoCine\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\TPI_Cine_API.runtimeconfig.json
+C:\Users\Juan\Desktop\FACULTAD\Programacion\Programación 2\ProyectoCine\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\TPI_Cine_API.dll
+C:\Users\Juan\Desktop\FACULTAD\Programacion\Programación 2\ProyectoCine\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\TPI_Cine_API.pdb
+C:\Users\Juan\Desktop\FACULTAD\Programacion\Programación 2\ProyectoCine\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Juan\Desktop\FACULTAD\Programacion\Programación 2\ProyectoCine\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Juan\Desktop\FACULTAD\Programacion\Programación 2\ProyectoCine\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Juan\Desktop\FACULTAD\Programacion\Programación 2\ProyectoCine\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Juan\Desktop\FACULTAD\Programacion\Programación 2\ProyectoCine\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\Juan\Desktop\FACULTAD\Programacion\Programación 2\ProyectoCine\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Juan\Desktop\FACULTAD\Programacion\Programación 2\ProyectoCine\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\Juan\Desktop\FACULTAD\Programacion\Programación 2\ProyectoCine\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\Juan\Desktop\FACULTAD\Programacion\Programación 2\ProyectoCine\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Juan\Desktop\FACULTAD\Programacion\Programación 2\ProyectoCine\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Juan\Desktop\FACULTAD\Programacion\Programación 2\ProyectoCine\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\TPI_Backend.dll
+C:\Users\Juan\Desktop\FACULTAD\Programacion\Programación 2\ProyectoCine\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\TPI_Backend.pdb
+C:\Users\Juan\Desktop\FACULTAD\Programacion\Programación 2\ProyectoCine\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\TPI_Cine_API.csproj.AssemblyReference.cache
+C:\Users\Juan\Desktop\FACULTAD\Programacion\Programación 2\ProyectoCine\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\TPI_Cine_API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juan\Desktop\FACULTAD\Programacion\Programación 2\ProyectoCine\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\TPI_Cine_API.AssemblyInfoInputs.cache
+C:\Users\Juan\Desktop\FACULTAD\Programacion\Programación 2\ProyectoCine\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\TPI_Cine_API.AssemblyInfo.cs
+C:\Users\Juan\Desktop\FACULTAD\Programacion\Programación 2\ProyectoCine\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\TPI_Cine_API.csproj.CoreCompileInputs.cache
+C:\Users\Juan\Desktop\FACULTAD\Programacion\Programación 2\ProyectoCine\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\TPI_Cine_API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Juan\Desktop\FACULTAD\Programacion\Programación 2\ProyectoCine\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\TPI_Cine_API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Juan\Desktop\FACULTAD\Programacion\Programación 2\ProyectoCine\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\TPI_Cine_API.sourcelink.json
+C:\Users\Juan\Desktop\FACULTAD\Programacion\Programación 2\ProyectoCine\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Juan\Desktop\FACULTAD\Programacion\Programación 2\ProyectoCine\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Juan\Desktop\FACULTAD\Programacion\Programación 2\ProyectoCine\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\staticwebassets\msbuild.TPI_Cine_API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Juan\Desktop\FACULTAD\Programacion\Programación 2\ProyectoCine\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\staticwebassets\msbuild.build.TPI_Cine_API.props
+C:\Users\Juan\Desktop\FACULTAD\Programacion\Programación 2\ProyectoCine\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.TPI_Cine_API.props
+C:\Users\Juan\Desktop\FACULTAD\Programacion\Programación 2\ProyectoCine\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.TPI_Cine_API.props
+C:\Users\Juan\Desktop\FACULTAD\Programacion\Programación 2\ProyectoCine\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Juan\Desktop\FACULTAD\Programacion\Programación 2\ProyectoCine\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\scopedcss\bundle\TPI_Cine_API.styles.css
+C:\Users\Juan\Desktop\FACULTAD\Programacion\Programación 2\ProyectoCine\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\TPI_Cine_API.csproj.CopyComplete
+C:\Users\Juan\Desktop\FACULTAD\Programacion\Programación 2\ProyectoCine\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\TPI_Cine_API.dll
+C:\Users\Juan\Desktop\FACULTAD\Programacion\Programación 2\ProyectoCine\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\refint\TPI_Cine_API.dll
+C:\Users\Juan\Desktop\FACULTAD\Programacion\Programación 2\ProyectoCine\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\TPI_Cine_API.pdb
+C:\Users\Juan\Desktop\FACULTAD\Programacion\Programación 2\ProyectoCine\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\TPI_Cine_API.genruntimeconfig.cache
+C:\Users\Juan\Desktop\FACULTAD\Programacion\Programación 2\ProyectoCine\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\ref\TPI_Cine_API.dll
+C:\Users\Ignacio\Desktop\TP_CINE\lts\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Ignacio\Desktop\TP_CINE\lts\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\appsettings.json
+C:\Users\Ignacio\Desktop\TP_CINE\lts\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\TPI_Cine_API.exe
+C:\Users\Ignacio\Desktop\TP_CINE\lts\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\TPI_Cine_API.deps.json
+C:\Users\Ignacio\Desktop\TP_CINE\lts\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\TPI_Cine_API.runtimeconfig.json
+C:\Users\Ignacio\Desktop\TP_CINE\lts\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\TPI_Cine_API.dll
+C:\Users\Ignacio\Desktop\TP_CINE\lts\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\TPI_Cine_API.pdb
+C:\Users\Ignacio\Desktop\TP_CINE\lts\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Ignacio\Desktop\TP_CINE\lts\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Ignacio\Desktop\TP_CINE\lts\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Ignacio\Desktop\TP_CINE\lts\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Ignacio\Desktop\TP_CINE\lts\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\Ignacio\Desktop\TP_CINE\lts\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Ignacio\Desktop\TP_CINE\lts\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\Ignacio\Desktop\TP_CINE\lts\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\Ignacio\Desktop\TP_CINE\lts\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Ignacio\Desktop\TP_CINE\lts\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Ignacio\Desktop\TP_CINE\lts\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\TPI_Backend.dll
+C:\Users\Ignacio\Desktop\TP_CINE\lts\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\TPI_Backend.pdb
+C:\Users\Ignacio\Desktop\TP_CINE\lts\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\TPI_Cine_API.csproj.AssemblyReference.cache
+C:\Users\Ignacio\Desktop\TP_CINE\lts\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\TPI_Cine_API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ignacio\Desktop\TP_CINE\lts\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\TPI_Cine_API.AssemblyInfoInputs.cache
+C:\Users\Ignacio\Desktop\TP_CINE\lts\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\TPI_Cine_API.AssemblyInfo.cs
+C:\Users\Ignacio\Desktop\TP_CINE\lts\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\TPI_Cine_API.csproj.CoreCompileInputs.cache
+C:\Users\Ignacio\Desktop\TP_CINE\lts\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\TPI_Cine_API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Ignacio\Desktop\TP_CINE\lts\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\TPI_Cine_API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Ignacio\Desktop\TP_CINE\lts\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\staticwebassets\msbuild.TPI_Cine_API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Ignacio\Desktop\TP_CINE\lts\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\staticwebassets\msbuild.build.TPI_Cine_API.props
+C:\Users\Ignacio\Desktop\TP_CINE\lts\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.TPI_Cine_API.props
+C:\Users\Ignacio\Desktop\TP_CINE\lts\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.TPI_Cine_API.props
+C:\Users\Ignacio\Desktop\TP_CINE\lts\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Ignacio\Desktop\TP_CINE\lts\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Ignacio\Desktop\TP_CINE\lts\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Ignacio\Desktop\TP_CINE\lts\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\scopedcss\bundle\TPI_Cine_API.styles.css
+C:\Users\Ignacio\Desktop\TP_CINE\lts\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\TPI_Cine_API.csproj.CopyComplete
+C:\Users\Ignacio\Desktop\TP_CINE\lts\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\TPI_Cine_API.dll
+C:\Users\Ignacio\Desktop\TP_CINE\lts\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\refint\TPI_Cine_API.dll
+C:\Users\Ignacio\Desktop\TP_CINE\lts\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\TPI_Cine_API.pdb
+C:\Users\Ignacio\Desktop\TP_CINE\lts\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\TPI_Cine_API.genruntimeconfig.cache
+C:\Users\Ignacio\Desktop\TP_CINE\lts\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\ref\TPI_Cine_API.dll
+C:\Users\David\Desktop\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\David\Desktop\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\appsettings.json
+C:\Users\David\Desktop\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\TPI_Cine_API.exe
+C:\Users\David\Desktop\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\TPI_Cine_API.deps.json
+C:\Users\David\Desktop\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\TPI_Cine_API.runtimeconfig.json
+C:\Users\David\Desktop\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\TPI_Cine_API.dll
+C:\Users\David\Desktop\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\TPI_Cine_API.pdb
+C:\Users\David\Desktop\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\David\Desktop\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\David\Desktop\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\David\Desktop\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\David\Desktop\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\David\Desktop\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\David\Desktop\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\David\Desktop\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\David\Desktop\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\David\Desktop\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\David\Desktop\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\TPI_Backend.dll
+C:\Users\David\Desktop\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\bin\Debug\net6.0\TPI_Backend.pdb
+C:\Users\David\Desktop\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\TPI_Cine_API.csproj.AssemblyReference.cache
+C:\Users\David\Desktop\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\TPI_Cine_API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\David\Desktop\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\TPI_Cine_API.AssemblyInfoInputs.cache
+C:\Users\David\Desktop\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\TPI_Cine_API.AssemblyInfo.cs
+C:\Users\David\Desktop\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\TPI_Cine_API.csproj.CoreCompileInputs.cache
+C:\Users\David\Desktop\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\TPI_Cine_API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\David\Desktop\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\TPI_Cine_API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\David\Desktop\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\staticwebassets\msbuild.TPI_Cine_API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\David\Desktop\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\staticwebassets\msbuild.build.TPI_Cine_API.props
+C:\Users\David\Desktop\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.TPI_Cine_API.props
+C:\Users\David\Desktop\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.TPI_Cine_API.props
+C:\Users\David\Desktop\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\David\Desktop\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\David\Desktop\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\David\Desktop\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\scopedcss\bundle\TPI_Cine_API.styles.css
+C:\Users\David\Desktop\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\TPI_Cine_API.csproj.CopyComplete
+C:\Users\David\Desktop\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\TPI_Cine_API.dll
+C:\Users\David\Desktop\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\refint\TPI_Cine_API.dll
+C:\Users\David\Desktop\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\TPI_Cine_API.pdb
+C:\Users\David\Desktop\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\TPI_Cine_API.genruntimeconfig.cache
+C:\Users\David\Desktop\TP_CINE\Repo-FrontAndBack-Cine\TPI_Cine_API\obj\Debug\net6.0\ref\TPI_Cine_API.dll

@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="FrmAcercaDe.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmActualizarCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmActualizarFuncion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmActualizarTicket.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmAltaCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmAltaTicket.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmAltaFuncion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmConsultarTicket.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmReportTicket.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmSeleccionFuncion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmConsultarCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmConsultarFuncion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmSeleccionButacas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Principal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Update="Report\dsReport.xsd">
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
+</Project>
